@@ -1,0 +1,21 @@
+# Ignore virtual environment
+venv/
+
+# Ignore API keys
+.env
+
+# Ignore Python cache
+__pycache__/
+
+# Ignore logs
+*.log
+
+# Ignore database/cache
+chroma_db/
+webcache.sqlite
+chat_logs/
+scraped_data/
+chat_feedback.jsonl
+
+# Ignore PDFs (optional)
+*.pdf

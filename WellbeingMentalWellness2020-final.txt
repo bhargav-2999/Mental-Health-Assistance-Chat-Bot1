@@ -1,0 +1,1831 @@
+See discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/351782904
+Well-Being and Mental Wellness Well-Being and Mental Wellness
+Chapter · May 2021
+DOI: 10.1093/acrefore/9780190632366.013.162
+CITATIONS
+13
+READS
+24,350
+5 authors, including:
+Gerard Bodeker
+University of Oxford
+151 PUBLICATIONS   3,662 CITATIONS   
+SEE PROFILE
+Sergio Pecorelli
+University of Brescia
+439 PUBLICATIONS   35,530 CITATIONS   
+SEE PROFILE
+Kishan Kariippanon
+The University of Sydney
+22 PUBLICATIONS   291 CITATIONS   
+SEE PROFILE
+All content following this page was uploaded by Gerard Bodeker on 23 May 2021.
+The user has requested enhancement of the downloaded file.
+Well-Being and Mental Wellness
+Page 1 of 44
+PRINTED FROM the OXFORD RESEARCH ENCYCLOPEDIA, GLOBAL PUBLIC HEALTH (oxfordre.com/publichealth). (c) Ox­
+ford University Press USA, 2020. All Rights Reserved. Personal use only; commercial use is strictly prohibited (for details see 
+Privacy Policy and Legal Notice).
+date: 04 August 2020
+Subject:  Epidemiology
+Online Publication Date:  Jul 2020
+DOI:  10.1093/acrefore/9780190632366.013.162
+Well-Being and Mental Wellness 
+Gerard Bodeker, Sergio Pecorelli, Lawrence Choy, Ranieri Guerra, and Kishan 
+Kariippanon
+ 
+Summary and Keywords
+The scientific landscape of wellbeing and mental wellness has developed significantly 
+through interdisciplinary cross-pollination by researchers in molecular genetics, neuro­
+science, sociology, economics, including traditional and complementary medicine. The 
+public health challenge lies in using this diverse body of scientific evidence to reframe 
+wellbeing and mental wellness within a 21st-century global public health framework that 
+incorporates evidence-based modalities alongside Western biomedical practice. Evidence 
+on modalities, case studies, policy examples, and emerging directions in societal objec­
+tives in wellbeing and mental wellness are discussed in the context of a way forward that 
+focuses on individual self-care, development of resilience, lifespan pathways for wellbe­
+ing, and a different economic calculus in framing public health priorities and policies.
+Keywords: first thousand days, SDGs, wellbeing, wellness, thriving, resilience, happiness, mental well-being, men­
+tal wellness, human potential, brain plasticity
+Introduction
+In 2017, the World Health Organization (WHO) produced the WHO Mental Health Atlas 
+with data from questionnaires completed by 177 of WHO’s 194 member states (World 
+Health Organization [WHO], 2018) and used to monitor the development and implementa­
+tion of WHO’s Comprehensive Mental Health Action Plan 2013–2020 (WHO, 2013).
+The WHO Atlas reported that the level of public expenditure on mental health in low- and 
+middle-income countries was low, and more than 80% of funds went to mental health hos­
+pitals. The allocation for human resources for mental health services has an extreme vari­
+ation between low- and high-income countries (from 1 in low-income countries to 72 in 
+high-income countries), whereas globally, the median number of mental health workers is 
+9 per 100,000 population (WHO, 2018). The number of mental health beds per 100,000 
+population is less than 8 in low- and lower-middle-income countries but over 50 in high- 
+income countries (WHO, 2018). In the sector of mental health promotion and prevention, 
+only 63% of WHO member states have a minimum of two functioning multisectoral men­
+tal health promotion and prevention programs at a national level, even though 72% of 
+Well-Being and Mental Wellness
+Page 2 of 44
+PRINTED FROM the OXFORD RESEARCH ENCYCLOPEDIA, GLOBAL PUBLIC HEALTH (oxfordre.com/publichealth). (c) Ox­
+ford University Press USA, 2020. All Rights Reserved. Personal use only; commercial use is strictly prohibited (for details see 
+Privacy Policy and Legal Notice).
+date: 04 August 2020
+member states have a dedicated policy or plan for mental health, and 57% have a stand- 
+alone mental health law (WHO, 2018).
+The WHO has taken the position that mental health
+is a state of wellbeing in which every individual realizes his or her own potential 
+can cope with the normal stresses of life, can work productively and fruitfully, and 
+is able to make a contribution to her or his community.
+(WHO, 2019)
+With mental health given its due importance in the UN Sustainable Development Goals 
+(SDGs), for the first time leaders of the world have acknowledged that mental health pro­
+motion wellbeing, and the prevention and treatment of substance abuse, is likely to have 
+a positive impact on communities and countries where millions of people require much- 
+needed help. Goal 3 of the SDG framework, for example, is to ensure healthy lives and 
+promote wellbeing for everyone and at all ages. Target 3.4 calls on countries to reduce 
+premature mortality from non-communicable diseases by a third, through prevention, 
+treatment, and mental health and wellbeing promotion by 2030. Target 3.5 calls on gov­
+ernments to reinforce and increase efforts in the prevention and treatment of substance 
+abuse, including narcotic drug abuse and the use of alcohol at harmful levels.
+The Lancet in 2007 consolidated decades of interdisciplinary studies and practice in a 
+multitude of contexts and raised a call to action to stakeholders globally to “scale up ser­
+vices for people affected by mental disorders (including substance use disorders, self- 
+harm, and dementia)” (Patel et al., 2018, p. 1553). The call to improve mental health ser­
+vices included a focus on disadvantaged communities living in low- and middle-income 
+countries, where rights to care and dignity left much room for improvement. As The 
+Lancet Commission reassessed the global mental health agenda, ten years on, and consid­
+ering the SDGs, the global burden of disease related to mental disorders has “risen in all 
+countries in the context of major demographic, environmental, and socio-political 
+transitions” (Patel et al., 2018, p. 1553).
+The opportunity is at hand to reconceptualize a global mental health agenda (in light of 
+the SDGs and the Comprehensive Mental Health Action Plan from WHO), based on pro­
+tecting the rights of people with psychosocial disabilities, through the consolidation of ev­
+idence from a variety of scientific disciplines and the adoption of ubiquitous digital tech­
+nology. Additionally, the world leaders convened in New York on September 23, 2019, for 
+the High-Level Meeting on Universal Health Coverage, at the margins of the UN General 
+Assembly, and in their political declaration committed to implementing measures to pro­
+mote and improve mental health and wellbeing as an essential component of universal 
+health coverage addressing such areas as comprehensive and integrated services for the 
+prevention and treatment of mental health conditions, specifically suicide prevention; 
+substance abuse; and social determinants, in line with the human rights concept.
+Well-Being and Mental Wellness
+Page 3 of 44
+PRINTED FROM the OXFORD RESEARCH ENCYCLOPEDIA, GLOBAL PUBLIC HEALTH (oxfordre.com/publichealth). (c) Ox­
+ford University Press USA, 2020. All Rights Reserved. Personal use only; commercial use is strictly prohibited (for details see 
+Privacy Policy and Legal Notice).
+date: 04 August 2020
+The Lancet Commission provided a four-pillar agenda to reframe global mental health at 
+a population level. The Commission reported that:
+Mental health is a global public good and is relevant to sustainable development in all 
+countries regardless of their socio-economic status.
+Second, mental health problems exist along a continuum from mild, time-limited distress 
+to chronic, progressive, and severely disabling conditions. The binary approach to diag­
+nosing mental disorders, although useful for clinical practice, does not accurately reflect 
+the diversity and complexity of the mental health needs of individuals or populations.
+Third, the mental health of each individual is the unique product of social and environ­
+mental influences, in particular during the early life course, interacting with genetic, neu­
+ro-development, psychological processes and affecting biological pathways in the brain.
+Fourth, mental health is a fundamental human right for all people that requires a rights- 
+based approach to protect the welfare of people with mental disorders, those at risk of 
+poor mental health and an enabling environment that promotes mental health for all. (Pa­
+tel et al., 2018, p. 1553)
+Crisis in Non-Communicable Disease
+The number of years lived with disability (YLD) from non-communicable diseases (NCDs) 
+increased between 1990 and 2017 by 61.1% (James et al., 2018). A series paper on “syn­
+demics,” published in The Lancet in 2017, refers to synergistic health problems that af­
+fect the health of populations under the influence of persistent social and economic in­
+equalities. Medical anthropologists developed the term “syndemics” as a call for re­
+searchers and policymakers to alter their conceptual frameworks to understand risk fac­
+tors better and improve the implementation of prevention and intervention programs. The 
+purpose of the call is to account for the health burdens of transitioning populations, par­
+ticularly in low- to middle-income countries (LMIC) (Mendenhall, Kohrt, Norris, Ndetei, & 
+Prabhakaran, 2017). For example, diabetes is not only a syndemic interaction with pover­
+ty but may include structural factors such as forced migration, unemployment, gender in­
+equality, racism, and a lack of social capital in a local context (Corburn & Hildebrand, 
+2015).
+This crisis in NCDs is multifaceted because it requires a framework that can harness the 
+power of “medicine, health systems, and human rights by bringing multiple fields togeth­
+er to recognise, describe, and appropriately intervene in the complex various disease bur­
+dens that afflict susceptible populations” (Mendenhall et al., 2017, p. 952).
+A compelling example of using a syndemic framework to understand the crisis in NCDs is 
+based on epidemiological evidence where depression is common among those with dia­
+betes compared with the general population in LMICs. In India, anthropological research, 
+referenced by Mendenhall et al. (2017), describes how depression is experienced differ­
+Well-Being and Mental Wellness
+Page 4 of 44
+PRINTED FROM the OXFORD RESEARCH ENCYCLOPEDIA, GLOBAL PUBLIC HEALTH (oxfordre.com/publichealth). (c) Ox­
+ford University Press USA, 2020. All Rights Reserved. Personal use only; commercial use is strictly prohibited (for details see 
+Privacy Policy and Legal Notice).
+date: 04 August 2020
+ently among the rich and the poor. This is exacerbated by a variety of social factors that 
+contribute to mental illness for those living with diabetes. Social isolation affects upper- 
+middle-class Indian mothers, whereas financial insecurity in low-income mothers causes 
+high levels of stress and psychological distress, which tend to result in depression 
+(Mendenhall et al., 2017).
+When researchers and policymakers consider the gravitas of the global syndemic of 
+NCDs, a convergent model to address mental health by unifying the evidence from devel­
+opmental science, neuroscience, intervention science, and epidemiology may provide a 
+way forward (Patel et al., 2018).
+In this article, the authors bring together the life course perspective (the first 1,000 days 
+of life) and new developments in neuroscience, to reframe mental health and wellness in 
+the context of brain plasticity throughout the adult lifespan, and address the insufficient 
+care gap in mental health against a backdrop of the development of evidence-based, self- 
+directed pathways toward growth and resilience in mental wellness.
+Epidemiology and Global Public Policy
+Mental and substance-use disorders are responsible for approximately 8% of the global 
+burden of disease, with 700 million people worldwide falling victim to preventable causes 
+(Ferrari et al., 2014; Whiteford et al., 2013). The burgeoning field of psychiatric epidemi­
+ology since the 1990s and a systematic review of the global prevalence of common mental 
+disorders provided aggregated estimates for the prevalence of common mental disorders 
+across a combined population of 829,673 participants, with 63 countries taking part in 
+the survey. Of these, 106 surveys were from high-income countries (HIC), and 68 surveys 
+from 37 low- to middle-income counties (LMIC) (Steel et al., 2014).
+Despite limitations in the data, such as the presence of inter-survey heterogeneity and 
+samples with potentially differing underlying population age structures between HIC and 
+LMIC, the key findings paint a clear picture of the global epidemiology of mental health 
+(Steel et al., 2014). The data indicate that one in five adults (17.6%) experienced a com­
+mon mental disorder within the preceding 12 months and almost 30% across their lifes­
+pan. Across both HIC and LMIC, women were more at risk of experiencing a mood or anx­
+iety disorder. In contrast, men were more likely to experience alcohol or other substance 
+misuse disorder.
+to Concerning lifetime prevalence, English-speaking HIC returned a higher prevalence, at 
+39.7% compared to other HIC and LMIC contexts. This may be due to the “English speak­
+ing sample including persons of more senior age who has passed through a more extend­
+ed period of risk, particularly in comparison with surveys undertaken within 
+LMICs” (Steel et al., 2014, p. 489).
+Although these figures underestimate the actual burden of disease because of the univer­
+sal complexity of diagnosing and reporting mental illness based on a narrow definition of 
+Well-Being and Mental Wellness
+Page 5 of 44
+PRINTED FROM the OXFORD RESEARCH ENCYCLOPEDIA, GLOBAL PUBLIC HEALTH (oxfordre.com/publichealth). (c) Ox­
+ford University Press USA, 2020. All Rights Reserved. Personal use only; commercial use is strictly prohibited (for details see 
+Privacy Policy and Legal Notice).
+date: 04 August 2020
+disease burden that excludes the impact it has on families and society, it is mostly due to 
+the limited and far from equitable global provision of mental health services (Gilbert, Pa­
+tel, Farmer, & Lu, 2015).
+Through the use of the Creditor Reporting System, Gilbert et al. (2015) reported that the 
+amounts and patterns of development assistance for global mental health (DAMH) in de­
+veloping countries between 2007 and 2013 saw an increase but remained low both in ab­
+solute terms and in terms proportionate to the total development assistance or health. 
+The average annual DAMH funding provided from 2007 to 2013 was US$133.57 million, 
+which is less than 1% of the total financing of development assistance for health. Mental 
+health has not received significant development assistance despite sustainable mental 
+healthcare being integrated into the existing health systems at a relatively low cost 
+(Gilbert et al., 2015).
+A fundamental critique of the global policy is the interpretation by policymakers, plan­
+ners, and researchers of the treatment gap as referring entirely to curative clinical inter­
+ventions that exclude all effective psychosocial wellness modalities (Pathare, Brazinova, 
+& Levav, 2018). As the use of the term “treatment” often prioritizes a biomedical ap­
+proach to mental health disorders and the often-overlooked needs of children and adoles­
+cents with highly unattended physical comorbidity and early mortality, Pathare et al. 
+(2018) proposed a holistic approach in the care continuum called the mental health care 
+gap. Hence the Mental Health Care Gap = Treatment Gap (biomedical approach) + Psy­
+chosocial Care Gap + Physical Care Gap (Pathare et al., 2018, p. 464).
+A study of treatment provision in HIC (Australia, Canada, England, United States) to re­
+duce the prevalence of common mental disorders, found “none of the four countries had 
+any evidence for a reduction in the prevalence of disorders or symptoms.” Instead “there 
+were indications of changes in the opposite direction in Australia, England and the Unit­
+ed States”(Jorm, Patten, Brugha, & Mojtabai, 2017). This review by Jorm et al. (2017) 
+shows that in Canada, the United States, and Australia, treatment was not of an adequate 
+standard. Another critical point was that in Australia, England, and the United States, 
+treatment was often received by people who did not meet the criteria for a diagnosis 
+(Jorm et al., 2017).
+Defining Well-Being and Mental Wellness
+A diverse set of scientific disciplines, such as psychology, sociology, and economics, have 
+contributed to the task of defining wellbeing. The pursuit of a definition dates back to the 
+time of Aristotle. He considered hedonic “‘happiness to be a vulgar ideal’ and preferred 
+eudemonic wellbeing as the ultimate state of human potential” (Ryan & Deci, 2001, in 
+Hanc, McAndrew, & Ucci, 2019, p. 145). A practical example of interdisciplinary work is a 
+collaboration between researchers and practitioners from the Mental Wellness Initiative 
+(MWI) of the Global Wellness Institute, resulting in a white paper, mapping contemporary 
+Well-Being and Mental Wellness
+Page 6 of 44
+PRINTED FROM the OXFORD RESEARCH ENCYCLOPEDIA, GLOBAL PUBLIC HEALTH (oxfordre.com/publichealth). (c) Ox­
+ford University Press USA, 2020. All Rights Reserved. Personal use only; commercial use is strictly prohibited (for details see 
+Privacy Policy and Legal Notice).
+date: 04 August 2020
+wellness pathways and evidence, as well as future implications for mental health and 
+wellbeing (Bodeker et al. 2018).
+The MWI’s white paper Mental Wellness: Pathways, Evidence and Horizons conceptualize 
+wellness in terms of a general sense of wellbeing in the physical, social, occupational, 
+spiritual, financial, and environmental aspects of our lives. The process of maintaining 
+mental wellness is viewed as lifelong and involves developing the skills and knowledge to 
+make conscious choices about living a healthy, purposeful, and fulfilling life. This lifelong 
+process enables individuals to realize their potential, cope with daily stresses, work pro­
+ductively, and contribute meaningfully to family, community, and society (Bodeker et al., 
+2018).
+The Better Life Initiative of the Organisation of Economic Co-operation and Development 
+(OECD, 2011) identifies three pillars for understanding and measuring people’s wellbe­
+ing:
+Material living conditions (or economic wellbeing), which determine people’s con­
+sumption possibilities and their command over resources.
+Quality of life, which is defined as the set of non-monetary attributes of individuals 
+that shapes their opportunities and life chances and has intrinsic value under dif­
+ferent cultures and contexts.
+The sustainability of the socioeconomic and natural systems where people live and 
+work, which is important for wellbeing to last over time. Sustainability depends on 
+how current human activities impact on the stocks of different types of capital 
+(natural, economic, human, and social) that underpin wellbeing.
+Psychological Perspectives of Well-Being
+The stream of research that defines wellbeing by the degree of positive feelings experi­
+enced, such as happiness, and the perception of one’s overall life (whether the individual 
+is satisfied or not) is emotional wellbeing (Dodge, Daly, Huyton, & Sanders, 2012; Magyar 
+& Keyes, 2019). The next stream of research, known as psychological wellbeing, accord­
+ing to Magyar and Keyes (2019), is based on eudemonic wellbeing and includes modali­
+ties of positive functioning where individuals realize their potential in terms of autonomy 
+and personal growth. Those who are high in emotional wellbeing feel good about life 
+while those who have high psychological wellbeing or social wellbeing function well in 
+daily routine and are resilient (Magyar & Keyes, 2019; Patel et al., 2018).
+Mental wellness can be “defined as an asset or resource that enables positive states of 
+wellbeing and provides the capability for people to achieve their full potential” (Patel et 
+al., 2018, p. 1562). The challenge to demarcate the differences between mental wellness 
+and disorder is such that individuals could struggle with symptoms of mental disorder but 
+at the same time also be able to maintain a degree of mental health parallel to their ex­
+pectations of life satisfaction, flourishing, and achieving their potential. According to Pa­
+Well-Being and Mental Wellness
+Page 7 of 44
+PRINTED FROM the OXFORD RESEARCH ENCYCLOPEDIA, GLOBAL PUBLIC HEALTH (oxfordre.com/publichealth). (c) Ox­
+ford University Press USA, 2020. All Rights Reserved. Personal use only; commercial use is strictly prohibited (for details see 
+Privacy Policy and Legal Notice).
+date: 04 August 2020
+tel et al. (2018), the association between mental health and disorder is not linear, even 
+though it may seem that they exist on a continuum.
+In a scoping review by Christmas and Khanlou (2018) on the definition of youth re­
+silience, mental health is seen as “a state of wellbeing in which an individual realizes his 
+or her own abilities, can cope with the normal stresses of life, can work productively and 
+is able to make a contribution to his or her community” (WHO, 2016). The notion of “nor­
+mal stresses of life” stands in contrast to the definition of resilience provided by Tusaie, 
+Puskar, & Sereika (2007, quoted in Christmas & Khanlou, 2018), where good mental 
+health or resilience is the capability to adapt better than expected in the face of signifi­
+cant adversity or risk. The ambiguity of definition can lead to an incomplete understand­
+ing and the inability to measure wellbeing and mental wellness. Panter-Brick (2014, p. 
+432, quoted in Christmas and Khanlou, 2018) defined resilience “as the process of har­
+nessing key resources to sustain wellbeing.” Well-being has also been framed as a state 
+instead of a construct: “a condition of a system in which the essential qualities are rela­
+tively stable” (Reber, 1995, p. 750). Building on this, Hanc et al. (2019, p. 230) offer a def­
+inition of wellbeing that is “the balance point between an individual’s resource pool and 
+the challenges faced.”
+A multidimensional construct of the definition of wellbeing with the term “flourishing” or 
+“optimal functioning” is a common approach in wellbeing research (Hanc et al., 2019). 
+Seligman, Parks, and Steen (2004) aligned their definition of wellness to endeavors that 
+strive to capture the complex nature of human flourishing (through positive emotion, en­
+gagement, relationships, meaning, and accomplishment) instead of preventing or amelio­
+rating “mental illness” (Hanc et al., 2019).
+Sociological Perspectives of Well-Being
+Keyes (1998, p. 122) defined wellbeing as “the appraisal of one’s circumstance and func­
+tioning in society” and proposed five dimensions that capture the global definition of so­
+cial wellbeing: social integration, social contribution, social coherence, social actualiza­
+tion, and social acceptance. Veenhoven (2008) proposed that reality is constructed be­
+tween and among social agents, and subjective wellbeing is a cognitive construct:
+Ancient thinkers viewed happiness as a far more social phenomenon, co-produced 
+and collective rather than the individualised notion that we see today.
+(Hanc et al., 2019, p. 770)
+Social capital is also considered a dimension of wellbeing, a determinant linked to subjec­
+tive wellbeing intertwined with interrelationships such as marriage, family, friendships, 
+work colleagues, and neighbors; and with concepts such as engagement with the broader 
+society, trustworthiness, and trust (Hanc et al., 2019).
+Well-Being and Mental Wellness
+Page 8 of 44
+PRINTED FROM the OXFORD RESEARCH ENCYCLOPEDIA, GLOBAL PUBLIC HEALTH (oxfordre.com/publichealth). (c) Ox­
+ford University Press USA, 2020. All Rights Reserved. Personal use only; commercial use is strictly prohibited (for details see 
+Privacy Policy and Legal Notice).
+date: 04 August 2020
+Economic Perspectives of Well-Being
+Amartya Sen’s research in capacity and capabilities asserts that wellbeing can be as­
+sessed by understanding the individual’s capabilities to act and that the evaluation of that 
+individual should be based on the context of the opportunities available and not his or her 
+achievements (Hanc et al., 2019). The New Economics Foundation (NEF) (Michaelson, 
+Mahony, & Schifferes, 2012) has been successful at bridging hedonic elements of wellbe­
+ing with economists’ theories of capabilities. The NEF proposed that the feeling of “hap­
+piness” can enable improved overall wellbeing by building personal resources and capa­
+bilities and triggering positive responses in moments of crisis. The NEF asserts that the 
+interaction between the internal drivers (such as health, optimism, and self-esteem) and 
+external drivers (income, housing, education, and social networks) enables functioning at 
+an individual level, resulting in the experience of positive emotions and 
+“flourishing” (Hanc et al., 2019).
+In microeconomics, a larger pool of choice is assumed to contribute to a higher quality of 
+life, where individuals can make decisions that maximize their wellbeing (Kahneman, 
+2003, in Hanc et al., 2019). Diener and Seligman (2004) clarify this apparent contradic­
+tion, which equates to a higher level of wellbeing, with income as a proxy:
+One challenge for a society based on wellbeing is that individuals do not have 
+ready and concrete models of how to pursue the goal of greater wellbeing, other 
+than following the economic model. When people are asked what would improve 
+the quality of their lives, the most frequent response is higher income. It is not 
+clear to people how they would achieve greater positive emotions and life satisfac­
+tion. Until there are concrete and proven steps toward these non-economic aims, 
+people are unlikely to abandon the dominant economic paradigm.
+(Diener & Seligman, 2004, p. 25)
+The OECD Framework for Statistics of the Distribution of Household Income, Consump­
+tion and Wealth (2013a) presents several options for measurement and makes a case for 
+the development of economic indicators as proxies for wellbeing, in particular addressing 
+two options: a macro-approach (which has its roots in national accounts and, in particu­
+lar, the accounting-based standards laid out in the System of National Accounts); and a 
+micro-approach (which has its roots in microeconomics and particularly in the study of 
+poverty and its effect on different socioeconomic groups within society), probably more 
+relevant when assessing societal impacts.
+Measuring Wellness
+Population measures of wellness are based on objective indicators of progress and have 
+been challenged by researchers in several behavioural and social science disciplines (Di­
+ener & Seligman, 2004; Huppert et al., 2009; Layard, 2011), who have recommended that 
+they are supplemented with subjective measures of how respondents experience life. Ob­
+Well-Being and Mental Wellness
+Page 9 of 44
+PRINTED FROM the OXFORD RESEARCH ENCYCLOPEDIA, GLOBAL PUBLIC HEALTH (oxfordre.com/publichealth). (c) Ox­
+ford University Press USA, 2020. All Rights Reserved. Personal use only; commercial use is strictly prohibited (for details see 
+Privacy Policy and Legal Notice).
+date: 04 August 2020
+jective indicators such as gross domestic product (GDP), financial status, consumption, 
+crime rate, and education are most often associated with people’s experiences when mea­
+suring happiness or life satisfaction (Huppert et al., 2009).
+In 2011, The UN General Assembly passed the resolution Happiness: Towards a Holistic 
+Approach to Development, urging member nations to follow the example of Bhutan for 
+measuring happiness and wellbeing, and calling happiness a “fundamental human 
+goal” (United Nations [UN], 2011). In 2012, Bhutan’s prime minister Hon. Jigme Thinley 
+and the UN secretary-general Ban Ki-Moon convened the High-Level Meeting on Well-Be­
+ing and Happiness to encourage the spread of Bhutan’s Gross National Happiness (GNH) 
+philosophy (UN, 2012). Shortly after the high-level meeting, March 20 was declared to be 
+International Day of Happiness by the UN in 2012 with resolution 66/28.
+The World Happiness Report (Helliwell, Huang, & Wang, 2019), which has contributed to 
+our knowledge of wellbeing with analysis on how happiness is defined and distributed 
+globally, is concerned with how people evaluate their lives holistically instead of via do­
+main-specific wellbeing outcomes (de Neve & Ward, 2017). Happiness is studied through 
+the lens of social inequality; for example, “those who feel their livelihood is at risk sys­
+tematically report lower levels of subjective wellbeing than those who report having high 
+levels of perceived job security (de Neve & Ward, 2017, p. 18).
+Studies on inequality mainly focus on how income and wealth are distributed. Helliwell et 
+al. (2019) argued that income is insufficient in scope as an indicator of overall quality of 
+life, and income inequality is a limited measure of overall inequality. For example, in­
+equalities in the distribution of health have direct effects on the levels of life satisfaction 
+beyond perceptions of wellbeing based on income alone. Another example is when social 
+trust measures are lower where income inequality is greater and is best measured 
+through inequality of subjective wellbeing (Helliwell et al., 2019).
+The research on the connection of one or more dimensions of religion and health has 
+been extensive, but not between the concept of spirituality and health (Peterman et al., 
+2002). Many of the studies on the role of religion in health (e.g., in living with cancer) 
+used measures that were not validated or reliable (Peterman, Fitchett, Brady, Hernandez, 
+& Cella, 2002). The study of the role of spirituality in health has come as researchers are 
+finding that there has been a change in the baby boomer generation with regard to reli­
+gion, which can be described as a “defection from organized religion and worship and a 
+more personal search for spiritual fulfilment” (Huppert et al., 2009, p. 49). By examining 
+spirituality instead of specific religious beliefs, as many of the tools were designed to 
+measure Christian denominations, researchers could be more inclusive in their studies of 
+the vast diversity of religious traditions and those that identify as spiritual, but not reli­
+gious (Peterman et al., 2002).
+In a report to the French government, Stiglitz, Sen, and Fitoussi (2017) stated that what 
+is measured has a direct impact on how interventions are designed to improve wellbeing. 
+Beyond a simplistic focus on the dichotomy of positive-negative emotions, wellbeing is 
+characterized as a set of indicators across multiple domains instead of a single factor 
+Well-Being and Mental Wellness
+Page 10 of 44
+PRINTED FROM the OXFORD RESEARCH ENCYCLOPEDIA, GLOBAL PUBLIC HEALTH (oxfordre.com/publichealth). (c) Ox­
+ford University Press USA, 2020. All Rights Reserved. Personal use only; commercial use is strictly prohibited (for details see 
+Privacy Policy and Legal Notice).
+date: 04 August 2020
+(Forgeard, Jayawickreme, Kern, & Seligman, 2011; Frey & Stutzer, 2010; Kern, Waters, 
+Adler, & White, 2015).
+Based on Seligman’s (2011) work, a model of flourishing called PERMA was introduced to 
+measure indicators in an educational setting (Kern et al., 2015). The indicators measured 
+in this model are positive emotions [P], engagement [E], relationships [R], meaning [M], 
+and accomplishment [A] (citation for PERMA). Positive emotions are defined as life out­
+comes such as satisfaction, hope, gratitude, physical vitality, and activity. Engagement 
+measures psychological interest and an active approach to life. Relationships measures 
+the feelings of connection and being supported by others. Meaning measures individual 
+sense of personal purpose, daily accomplishments, and social support; and accomplish­
+ment identified people’s level of perseverance and success in areas such as marriage, ca­
+reer, and self-mastery or self-determination (Ryan & Deci, 2001). These multidimensional 
+measures to assess wellbeing and its gauge on the subjective perspectives of wellbeing 
+will potentially support successful promotion of wellbeing.
+The Economist Intelligence Unit found that cost-effectiveness—or return of investment 
+(ROI) of wellness programs in the corporate sector—is no longer a primary measure used 
+by employers. Employers, however, still lack adequate information to evaluate their top 
+wellness program objectives (i.e., improving employee health as an indirect driver of pro­
+ductivity, morale, and engagement), caused by a lack of guarantee on how employee pri­
+vacy and data sharing concerns can be resolved (Economist Intelligence Unit, 2014). The 
+Future of Wellness at Work Report from the Global Wellness Institute indicates that the 
+evaluation of employees’ perception of their company as caring about their health and 
+wellness (which only 37% did), resulting in the significant improvement of the employees’ 
+overall health and job engagement/satisfaction (Global Wellness Institute, 2016).
+In Meiselman (2016), ten dimensions of wellness were identified from 20 published well­
+ness models. These wellness dimensions, though lacking in critical reflection on their 
+Western middle-class perspective, are grouped into five broader categories; Physical, So­
+cial, Emotional/Psychological, Intellectual, and Spiritual (Meiselman, 2016).
+A randomized controlled trial of 5,000 participants of a multiyear research project 
+claimed zero benefits from a corporate wellness program after its first year of implemen­
+tation. The study found that measuring ROI was not as suitable as measuring the value on 
+investment (VOI) of employee wellness programs. The factors that are used to measure 
+effectiveness with a VOI model are improved culture of wellness, increased employee ed­
+ucation on wellness (i.e., improved sleep, rest, eating less fast food), improved health sta­
+tus (i.e., more and better nutritional choices), and regular positive feedback from employ­
+ees who benefited from the wellness program (Kohll, 2018). Limitations to this study, 
+however, must be acknowledged. Although this is a multiyear study, data were only col­
+lected in the first year, employees who participated in the program were already leading 
+healthy lifestyles, and the outcome measures were related to health behaviors—which 
+may be too complex a behavior change outcome to aim for.
+Well-Being and Mental Wellness
+Page 11 of 44
+PRINTED FROM the OXFORD RESEARCH ENCYCLOPEDIA, GLOBAL PUBLIC HEALTH (oxfordre.com/publichealth). (c) Ox­
+ford University Press USA, 2020. All Rights Reserved. Personal use only; commercial use is strictly prohibited (for details see 
+Privacy Policy and Legal Notice).
+date: 04 August 2020
+The Organisation for Economic Co-operation and Development Guidelines for measuring 
+subjective wellbeing urged investigators to measure cognitive evaluations of one’s life as 
+well as positive and negative emotions. The guidelines enable a more comprehensive 
+measure of people’s quality of life and a more nuanced understanding of its determinants 
+(OECD, 2013B).
+Another helpful perspective from the corporate sector on what should be measured in 
+wellness programs is a list of five key factors:
+1. Employee levels of engagement with the wellness program
+2. Tracking of minimum improvements in employee health trends
+3. Employee access to health services
+4. Employee performance at work
+5. Employee work satisfaction
+Such indicators are useful in measuring the effectiveness on wellness programs for em­
+ployees (Rook, 2015).
+Early-Life Prevention: The First 1,000 Days of 
+Life
+Wellness strategies before conception and during pregnancy, as well as in early child­
+hood, all combine to tip the scales toward health (including mental health) rather than 
+disease.
+The future of an individual’s mental health may be affected during the developmental 
+process and calls for the examination of the phenomena that lead both to positive and 
+negative influences of the state of mental health later in the lifespan. The focus here is 
+the developmental stage of early life, from conception, or even preconception, to new­
+born and two-year-old children: this period is now recognized as “the first 1,000 days of 
+life.”
+This article looks at specific mechanisms that have been shown to mediate molecular sig­
+nalling and cause biological perturbations with a deleterious impact on health during ear­
+ly human developmental phases. Furthermore, parental epigenetic inheritance and expo­
+sures to stressors during pregnancy have been recurrently associated with the offspring’s 
+onset of non-communicable diseases (NCDs), including neurodegenerative diseases.
+Environmental Plasticity and Predictive Adap­
+tive Response
+Much of what a pregnant woman encounters in her daily life is shared in some fashion 
+with her fetus, and the fetus incorporates these into his or her own body and mind. The 
+events during this time will permanently influence the functioning of the organs and the 
+Well-Being and Mental Wellness
+Page 12 of 44
+PRINTED FROM the OXFORD RESEARCH ENCYCLOPEDIA, GLOBAL PUBLIC HEALTH (oxfordre.com/publichealth). (c) Ox­
+ford University Press USA, 2020. All Rights Reserved. Personal use only; commercial use is strictly prohibited (for details see 
+Privacy Policy and Legal Notice).
+date: 04 August 2020
+wiring of the brain—the so-called fetal programming and neurodevelopment that repre­
+sent the blueprint of the individual’s future existence. It has been a revolutionary shift; 
+from a paradigm in which DNA was a static and unchangeable program to build our body, 
+to a DNA that is vulnerable and modifiable by everything that surrounds human beings 
+(the environment) even before the parental germ line fuses.
+The interplay between inherited genes and the exogenous stimuli through gene-environ­
+ment interaction represents the organism’s effort to fine-tune the genome functioning by 
+producing phenotypic profiles adapted to the predicted changing environment (Gluckman 
+& Hanson, 2004). In fact, during the ontogenetic development of most species, including 
+humans, the process of plasticity induces phenotypic variations that provide a fit adapta­
+tion to the ever-changing environment (Bateson, Gluckman, & Hanson, 2014). Through 
+molecular mechanisms, including epigenetic control of DNA expression (Godfrey, Lilly­
+crop, Burdge, Gluckman, & Hanson, 2007), the organism responds to environmental stim­
+uli that do not cause changes in the genome. Environmental distress causes perturbation 
+of biological development with differential sensitivity, and according to tissue-specific 
+critical windows of susceptibility. This phenomenon is known as adaptive developmental 
+plasticity (Bateson et al., 2004; West-Eberhard, 2003). The program transmitted by par­
+ents and prior generations have the potential to be completely modified by the environ­
+ment. The environment includes air, water, earth, food, the physical exercise practised, 
+the connections between human beings, and even the music an individual listens to on a 
+mobile phone.
+All these interactions allow a differential expression of an individual’s DNA based on the 
+positive or negative stimuli from the environment, generating a reaction from the 
+person’s biological system and determining who the person is and how he or she is doing. 
+The magnitude of these stimuli on the body is incredibly more intense during the early 
+phases of life when the plasticity is highest.
+But there is another environment, perhaps more profound and more powerful: the envi­
+ronment of emotions. A mother’s emotions during pregnancy condition the micro-RNA 
+that in turn regulate gene expressions of the fetus and the future offspring of this fetus, 
+for three generations.
+Positive emotions, which provide a proper development of the brain, can set up excellent 
+conditions; however, negative ones, such as maternal stress, fear, and anxiety, may pro­
+duce a disruption in the brain development, whose outcome can be irreversible disorders 
+later in life, such as schizophrenia or Parkinson’s disease.
+Emotions are a fundamental epigenetic factor that acts on what is called the connectome, 
+the system of neural networks, the connections within the brain, and the nervous system. 
+The emotions are thoroughly shaped by connectomes, and 100 billion interconnected neu­
+rons, including the senses, are connected with the connectome. When people touch each 
+other, when a mother touches her baby, when human beings look at each other, when the 
+mother looks at her baby and smiles at him—these emotions activate the whole body and 
+act on the DNA. DNA responds to emotions because, as pointed out, it is an adaptive DNA 
+Well-Being and Mental Wellness
+Page 13 of 44
+PRINTED FROM the OXFORD RESEARCH ENCYCLOPEDIA, GLOBAL PUBLIC HEALTH (oxfordre.com/publichealth). (c) Ox­
+ford University Press USA, 2020. All Rights Reserved. Personal use only; commercial use is strictly prohibited (for details see 
+Privacy Policy and Legal Notice).
+date: 04 August 2020
+Figure 1.  The First 1,000 Days of Life—the most op­
+timal stage for public health and mental wellness in­
+tervention.
+that learns from experience. It is a powerful phenomenon called interdependence. Human 
+beings are connected. The mother and the baby are connected, and it is a connection of 
+memories, looks, smiles, and touches.
+Each day people have the opportunity to modify their relationships by changing their dai­
+ly activity and behaviour. Only a few days after birth, a baby can recognize 70 different 
+types of its mother’s smiles. A 30-second hug activates oxytocin and many other hor­
+mones that will dramatically shape the way the baby will relate to his or her family, to 
+friends, and the world.
+It has been suggested that developmental plasticity may lead to a postnatal phenotype 
+predicted by the conditions of early life and that a mismatch between prediction and sub­
+sequent reality leads to later health problems (Godfrey et al., 2007). The plasticity of tis­
+sues is mainly affected by environmental exposure during development in utero, although 
+in some other cases (respiratory, immune systems, and the brain) tissue development ex­
+tends into childhood. As tissues develop, sensitivity to environmental insults and function­
+al changes drop, leading to an increased susceptibility to diseases later in life (Barouki, 
+Gluckman, Grandjean, Hanson, & Heindel, 2012).
+The Parental Role
+Parental environmental exposures affecting gametes may play an essential role in deter­
+mining the newborn’s phenotypes. As tissues develop, sensitivity to environmental insults 
+and functional changes gradually decrease, leading to the second phase of susceptibility 
+to diseases later in life (Barouki et al., 2012).
+The effect of parental epigenetic inheritance on various chronic conditions is confirmed 
+by increasing evidence. Several major neurodevelopmental disorders are linked to pater­
+nal and maternal epigenetic inheritance. Exposures to stressors during pregnancy has 
+been recurrently associated with offspring’s onset of cardiovascular (atherosclerosis, hy­
+pertension, coronary heart disease, and heart failure), metabolic disease (reduced fetal 
+growth, obesity, and diabetes) (Bell, 2017; Gehring, Tamburic, Sbihi, Davies, & Brauer, 
+Well-Being and Mental Wellness
+Page 14 of 44
+PRINTED FROM the OXFORD RESEARCH ENCYCLOPEDIA, GLOBAL PUBLIC HEALTH (oxfordre.com/publichealth). (c) Ox­
+ford University Press USA, 2020. All Rights Reserved. Personal use only; commercial use is strictly prohibited (for details see 
+Privacy Policy and Legal Notice).
+date: 04 August 2020
+2014; Harris & Seckl, 2011; Jimenez-Chillaron, Ramon-Krauel, Ribo, & Diaz, 2016). The 
+impact has also been documented in neurological (vasomotor disorders, attention deficit, 
+impaired cognition, a potential delay of temporal processing acuity, and reduced brain 
+volume in children), renal (chronic kidney disease) (Yzydorczyk et al., 2017), mental and 
+psychiatric conditions (Ambeskovic, Roseboom, & Metz, 2017), with gender differences.
+Rational Preventive Interventions in the First 
+1,000 Days
+Practical preventive interventions for populations can be created to significantly lower 
+the burden of healthcare costs and increase the quality of life, but these require a change 
+in mindset. The target of interventions needs to focus on an individual (the fetus/infant) 
+who is not responsible for his or her lifestyle. It involves an environment (that often can 
+be rarely or only narrowly changed) that is much wider than the fetus/infant’s immediate 
+surroundings.
+Such efforts require a systemic approach representing a challenge for governments and 
+stakeholders, and it may generate a dramatic social, health, and economic impact. The 
+private sector shares responsibilities with public institutions while foreseeing an opportu­
+nity to redesign market strategies toward more ethical products. Technological develop­
+ment and societal advances must work in parallel with education for a systemic integra­
+tion of prevention strategies, highlighting their societal importance and high-impact sta­
+tus.
+Mental health and wellness underpin all health and wellbeing and optimize the conditions 
+for a resilient and thriving population; preventive efforts should continue to focus on the 
+first 1,000 days, providing a game-changing perspective shift to develop more efficient 
+healthcare systems. A consistent, sustainable, commitment and active investment by gov­
+ernments, industry, academic and civil society represents a prerogative to tackle pre­
+ventable health issues and inequities globally.
+So far, priority efforts to prevent NCDs have primarily focused on adult individuals’ risk 
+factors (poor diet, physical inactivity, smoking, and alcohol consumption) while almost ig­
+noring early stages of development for individuals.
+Ultimately, the assessment of the feasibility, efficacy, effectiveness, and efficiency of pre­
+ventive strategies, inspired by the first 1,000 days paradigm with a life-course and multi­
+level outcome perspective, represents an essential step to support specific policy activi­
+ties objectively.
+In the 21st century, there is an agreement that the first 1,000 days of life, from concep­
+tion to the second year of life, are the most critical determinants of health of individuals 
+and probably account for 70% of good health and wellness in life.
+Well-Being and Mental Wellness
+Page 15 of 44
+PRINTED FROM the OXFORD RESEARCH ENCYCLOPEDIA, GLOBAL PUBLIC HEALTH (oxfordre.com/publichealth). (c) Ox­
+ford University Press USA, 2020. All Rights Reserved. Personal use only; commercial use is strictly prohibited (for details see 
+Privacy Policy and Legal Notice).
+date: 04 August 2020
+When faced with the issue of the prevention of NCDs, including mental health and well­
+ness, there should be the realization that prevention must begin early in life, even before 
+conception. It is also remarkable how lifestyles, including parental behaviour, and the en­
+vironment play a vital role in the early developmental process of life, and these impact 
+the individual directly. The implications are that the wellness world and wellness prac­
+tices, so profoundly rooted in prevention practices, can play a critical role in the world to 
+have positive impact from the beginning of life; and it is an individual and societal respon­
+sibility to educate and empower the population with this life-changing perspective.
+Neuroplasticity and Mental Wellness
+Until the last several decades, the “hard science” explanation for the impact of wellness 
+practices evaded scientists; this changed with the advent of revolutionizing research 
+technologies in brain imaging and molecular genetics. In the book entitled Decade of the 
+Brain, published during the 1990s, knowledge of the most complex structure in the uni­
+verse underwent a paradigm shift (Goldstein, 1993). Although the scientific community 
+had been convinced that the human brain was fixed and incapable of change on reaching 
+adulthood and that people were born with a fixed number of brain cells that would de­
+cline inevitably with age, new evidence emerged that proved this paradigm was not only 
+inaccurate but far from the truth. It was discovered that stem cells exist in the adult brain 
+and are shown to have the capacity to develop into mature functional neurons that aid in 
+memory and learning in a remarkable process called neurogenesis. In line with this new 
+evidence, there is substantial knowledge that can explain how wellness habits promote 
+our brain to change and rewire itself through a lifelong process termed neuroplasticity.
+Neuroplasticity refers to the ability of the nervous system to adapt, change, and rebuild, 
+and is strongest during our first five years of life. The agile nature of neural cells occurs 
+on multiple levels, ranging from microscopic to the observable and behavioural. On the 
+other hand, brain plasticity is also vulnerable to harmful, dysfunctional, and undesirable 
+adaptations and change, despite its ability to make favourable positive changes. There­
+fore, in this critical period of activity-dependent plasticity, neural connections are formed 
+at an immensely rapid pace. This window of heightened plasticity, our first five years of 
+life, provides us with the invaluable ability to learn with enormous ease. Even new skills 
+may be acquired through mere observation, immersion, and interaction in our social envi­
+ronment. During the developmentally sensitive periods of “use it or lose it,” neural con­
+nections become stronger and more permanent through repeated use. Weak or unused 
+neural connections may Prune off, and hence repetition is the key to learning and mas­
+tery.
+The impact of stress on a developing brain, such as on a child or an adolescent, can have 
+a lifelong effect and is avoidable when provided with the right wellness support. Psy­
+chosocial stressors in childhood, such as poverty, parental separation and divorce, emo­
+tional neglect, psychological, physical or sexual abuse, mental illness and substance 
+abuse in the home environment, are capable of negative rewiring in the development of 
+Well-Being and Mental Wellness
+Page 16 of 44
+PRINTED FROM the OXFORD RESEARCH ENCYCLOPEDIA, GLOBAL PUBLIC HEALTH (oxfordre.com/publichealth). (c) Ox­
+ford University Press USA, 2020. All Rights Reserved. Personal use only; commercial use is strictly prohibited (for details see 
+Privacy Policy and Legal Notice).
+date: 04 August 2020
+Figure 2.  Yerkes-Dodson Law: Inverted U-relation­
+ship between stress/arousal level and performance 
+(see Teigen, 1994).
+Figure 3.  Stress inoculation shifts the inverted U- 
+shaped curve to promote resilience (reused with per­
+mission (see Russo, Murrough, Han, Charney, & 
+Nestler, 2012).
+our prefrontal cortex. The prefrontal cortex is the part of the higher-level brain regions 
+that benefit from wellness practices.
+When the prefrontal cortex is exposed to experiential stimuli (i.e., sensory, emotional, and 
+intellectual) at moderate levels of stress, the brain is capable of optimal performance. Too 
+little or too much arousal impairs functioning. The ability to challenge oneself outside the 
+comfort zone promotes neuroplasticity in favour of growth and resilience. Therefore, the 
+deliberate and active maintenance of this perpetual back-and-forth state of balance be­
+tween optimal stress and restorative rest is vital for driving positive neuroplastic 
+changes.
+Committing to a life of mental wellness is instrumental to thriving in the 21st century. In 
+order to meet the evolving needs of our present and the future, the brain’s plasticity must 
+be harnessed toward positive growth. Wellness-based neuroplasticity enables people to 
+achieve self-actualization and ultimately undergo a transformation toward self-transcen­
+dence. Only when this dimension of wellbeing is realized are people able to set aside their 
+Well-Being and Mental Wellness
+Page 17 of 44
+PRINTED FROM the OXFORD RESEARCH ENCYCLOPEDIA, GLOBAL PUBLIC HEALTH (oxfordre.com/publichealth). (c) Ox­
+ford University Press USA, 2020. All Rights Reserved. Personal use only; commercial use is strictly prohibited (for details see 
+Privacy Policy and Legal Notice).
+date: 04 August 2020
+own needs to help others fulfil theirs. To this end, people will be able to create a sustain­
+able, integrated, and harmonious path toward personal and global wellness.
+Overview of Wellness Modalities
+Wellness modalities are a range of activities and programs that have positive effects on 
+somatic, psycho, and emotional wellbeing. This section provides a general introduction to 
+a few modalities that experienced a surge in research activities, now translated to the 
+broader population.
+The microbiome of the human gut comprises bacteria, protozoa, fungi, nematodes, and 
+viruses, among others (Wang & Wang, 2016). Disruption of the gut-brain axis is indicated 
+in the pathogenesis of a diverse range of diseases, including Parkinson’s disease and irri­
+table bowel syndrome (Wang & Wang, 2016). There are more than 500 million informa­
+tion-transmitting neurons embedded in the wall of the human gut, outnumbering those in 
+the spinal cord by five to one. These information-transmitting neurons provide the body 
+with “a second brain,” known as the enteric nervous system (ENS).
+The ENS connects with the central nervous system (CNS), the brain, the spinal cord, and 
+the autonomic nervous systems (ANS), creating a bidirectional gut-brain axis (GBA), 
+which links physiological, behavioural, and cognitive functions with intestinal digestion, 
+absorption, and excretion. The vagus nerve is central to this gut–brain axis. The nerve 
+contains 80% of afferent fibres and 20% of efferent fibres, and innervates the entire di­
+gestive tract. Chronic stress in the early stages of life induces dysbiosis in rats through 
+modifications of intestinal permeability and may later sensitize adult rats to visceral hy­
+persensitivity (Moussaoui et al., 2017). Stress inhibits the vagus nerve and stimulates the 
+nervous system to produce inflammatory disorders and thus favour dysbiosis by disrupt­
+ing homeostasis (Bonaz, Bazin, & Pellisier, 2018). Gut disorders, known as functional gas­
+trointestinal disorders (FGIDs) are associated with the prevalence of both depression and 
+anxiety, and these increase with both the number of FGIDs and the frequency and severi­
+ty of GI symptoms (Pinto-Sanchez et al., 2015).
+Nutrition and the Brain
+The immune system, oxidative biology, brain plasticity, and the microbiome–gut–brain ax­
+is are critical targets for nutritional interventions. The most effective way to provide re­
+siliency against the pathogenesis of mental disorders is higher intakes of whole foods, 
+whole grains, lean meat, nuts, and legumes, with avoidance of processed foods (Sarris, 
+Mischoulon, & Schweitzer, 2012). Dietary habits modulate the function of the immune 
+system, which is also implicated in mental disorders, operates with the support of nutri­
+ent cofactors and is implicated in mental disorders, and operates with the support of nu­
+trient cofactors and phytochemicals (Sarris et al., 2012).
+Well-Being and Mental Wellness
+Page 18 of 44
+PRINTED FROM the OXFORD RESEARCH ENCYCLOPEDIA, GLOBAL PUBLIC HEALTH (oxfordre.com/publichealth). (c) Ox­
+ford University Press USA, 2020. All Rights Reserved. Personal use only; commercial use is strictly prohibited (for details see 
+Privacy Policy and Legal Notice).
+date: 04 August 2020
+The relationship between unhealthy dietary patterns and poorer mental health in children 
+and adolescents (increased consumption of processed foods) has been independently as­
+sociated with a higher likelihood of risk of depression and anxiety, as has better mental 
+health with a good-quality diet (O’Neil et al., 2014). The evidence is clear that supple­
+ments such as omega-3 fatty acids, S-adenosyl methionine (SAMe), N-acetyl cysteine 
+(NAC), zinc, vitamin B (including folic acid), and vitamin D influence neurochemical mod­
+ulation that in turn benefits the management of mental disorders (Jacka, 2017; Sarris et 
+al., 2012).
+Landmark research by Professor A. David Smith of Oxford University has found that af­
+fordable vitamin B supplements stopped shrinkage of the area of the brain, the medial 
+temporal lobe, that contribute to Alzheimer’s disease. A combination of vitamin B6 (20 
+mg), B12 (500 mcg), and folic acid (800 mcg) slowed the process of decline associated 
+with Alzheimer’s disease by eightfold compared to those on the placebo. The evidence 
+strongly indicative that vitamin B supplements may be slowing or potentially arresting 
+the disease process associated with early-stage cognitive decline and the first treatment 
+of its kind to show this (Douaud et al., 2013).
+Inflammation and Mental Health
+Inflammation might be a common mechanism underlying the comorbidities between de­
+pression, schizophrenia, coronary heart disease, and diabetes mellitus. Sugar, saturated 
+fats, trans fats, refined carbohydrates, red meat, and alcohol have all been found to cause 
+inflammation in the body, which in turn is associated with pain, cancer, diabetes, obesity, 
+and arthritis. Mood disorders such as depression and anxiety, as well as more severe con­
+ditions such as autism, dementia, and even schizophrenia, have all been linked to inflam­
+mation of the brain (Danzter, O’Connor, Freund, Johnson, & Kelley, 2008).
+Wellness approaches tackling inflammation focus mainly on diet and supplements. Nu­
+merous studies have demonstrated the potent anti-inflammatory effects of turmeric, 
+which in turn accounts for this being one of the most significant selling products in the 
+wellness supplement market (Zecha, 2017). Anti-inflammatory foods include fruits and 
+vegetables high in antioxidants and polyphenols.
+Dr Francesco Branca in the BBC (Branca, 2019) referred to obesity and malnutrition as a 
+burden on emerging countries where failing food systems is a new reality, thereby in­
+creasing poor mental health outcomes, especially for children. In addition, The Lancet 
+and the WHO makes the point that those food systems contribute to nutritional psychiatry 
+and are at the core of mental health and wellbeing (Branca, 2019; Mendenhall et al., 
+2017).
+Well-Being and Mental Wellness
+Page 19 of 44
+PRINTED FROM the OXFORD RESEARCH ENCYCLOPEDIA, GLOBAL PUBLIC HEALTH (oxfordre.com/publichealth). (c) Ox­
+ford University Press USA, 2020. All Rights Reserved. Personal use only; commercial use is strictly prohibited (for details see 
+Privacy Policy and Legal Notice).
+date: 04 August 2020
+Rest
+Using a newly developed Living Well Index, researchers from Oxford Economics and the 
+National Centre for Social Research in the United Kingdom (Oxford Economics & Nation­
+al Centre for Social Research, 2019) reported that a good night’s sleep is worth more 
+than quadrupling disposable income and is the most significant single contributor to liv­
+ing better (Sainsbury’s & Oxford Economics, 2018).
+Researchers from the University of Basel found a connection between the brain, the dif­
+ferent phases of the moon and how it affects human biology, particularlysleep, and subse­
+quently, physical and mental health (Cajochen et al., 2013). The effects of the lunar cycle, 
+possibly due to disturbances of the Earth’s electromagnetic field or to changes of the lu­
+nar gravitational force on Earth, are purported to affect the “biological tide,” which re­
+sults in an altered autonomic neural activity and cardiovascular activity during different 
+lunar phases (Chakraborty, 2014).
+Meditation
+Meditation was a poorly understood personal development technique of both the East and 
+West until 1970, until Science published the first rigorous scientific research paper show­
+ing that during meditation, oxygen consumption and heart rate decreased, skin resis­
+tance increased, and the electroencephalogram showed specific changes in certain brain 
+frequencies. Led by Dr R. K. Wallace, a study that measured the physiological effects of 
+the Transcendental Meditation (TM) technique, distinguished meditation from other rest­
+ing states, and began the steady growth of meditation research that has progressed un­
+abated for the almost half a century that followed (Wallace, 1970).
+Studies on the technique studied by Wallace have found reductions in anxiety (Tomljen­
+ovic, Begic, & Mastrovic, 2016) and post-traumatic stress (Rees, Travis, Shapiro, & 
+Chant, 2014), and improvement in the mental health of caregivers. In a study on survivors 
+of the Japanese earthquake-tsunami of 2011, advances were made in both psychological 
+and physical symptoms when following instructions in the TM meditation technique 
+(Yoshimura et al., 2015).
+In studies on mindfulness meditation, researchers found some forms of meditation may 
+have salutary effects on telomere length and hormonal factors that may promote telom­
+ere maintenance by reducing cognitive stress, stress arousal and increasing positive 
+states of mind (Conklin et al., 2018; Epel, Daubenmier, Moskowitz, Folkman, & Black­
+burn, 2009).
+Well-Being and Mental Wellness
+Page 20 of 44
+PRINTED FROM the OXFORD RESEARCH ENCYCLOPEDIA, GLOBAL PUBLIC HEALTH (oxfordre.com/publichealth). (c) Ox­
+ford University Press USA, 2020. All Rights Reserved. Personal use only; commercial use is strictly prohibited (for details see 
+Privacy Policy and Legal Notice).
+date: 04 August 2020
+Massage
+According to the U.S. National Institutes of Health National Center for Complementary 
+and Integrative Health (NCCIH), much of the scientific research on massage therapy is 
+preliminary or conflicting. Still, much of the evidence points toward beneficial effects on 
+pain and other symptoms associated with several different conditions. Evidence suggests 
+that these effects are short term and that people need to continue receiving massages for 
+the benefits to endure (NCCIH, 2019).
+A 2010 meta-analysis of 17 clinical trials concluded that massage therapy might help to 
+reduce depression. According to a 2012 NCCIH-funded clinical trial a brief twice-weekly 
+yoga and massage session for 12 weeks was associated with a decrease in depression, 
+anxiety, back and leg pain in pregnant women with depression (NCCIH, 2019). For gener­
+alized anxiety disorder, massage therapy may help temporarily reduce pain, fatigue, and 
+other symptoms associated with fibromyalgia, but the evidence is not definitive (NCCIH, 
+2019).
+Aroma
+Aromatherapy uses essential oils, which contain a mix of active ingredients (concentrated 
+extracts taken from the roots, leaves, seeds, or blossoms of plants), and this mix deter­
+mines how it is used. Some oils are used to promote physical healing, for example, to 
+treat swelling or fungal infections. Others are used for emotional value, which may en­
+hance relaxation. Orange blossom oil, for example, contains a large amount of an active 
+ingredient that is thought to be calming. Smell loss occurs with both Parkinson’s disease 
+and Alzheimer’s, and studies have indicated that a diminishing sense of smell can be an 
+early sign of the onset of both conditions, occurring several years before motor skill prob­
+lems develop (Doty, 2017).
+The University of Maryland’s Center for Integrative Medicine reports evidence suggest­
+ing that citrus oils may strengthen the immune system and that peppermint oil may help 
+with digestion. Fennel, aniseed, sage, and clary sage have estrogen-like compounds that 
+may help relieve symptoms of premenstrual syndrome and menopause.
+Technology is keeping pace with this growth in aromatherapy. One such innovation is 
+Cyrano, described as a “digital scent speaker and mood modification platform.” Cyrano is 
+a small device that connects to a smartphone and releases a “symphony” of distinct 
+smells from one place. With a few presses of a button, users can match the scent to what­
+ever their mood is. The increasing availability of essential oil-based products and tech­
+nologies makes self-managed aromatherapy an available home-based option and hence 
+democratizes a dimension of the wellness industry, often perceived as out of reach for the 
+majority.
+Well-Being and Mental Wellness
+Page 21 of 44
+PRINTED FROM the OXFORD RESEARCH ENCYCLOPEDIA, GLOBAL PUBLIC HEALTH (oxfordre.com/publichealth). (c) Ox­
+ford University Press USA, 2020. All Rights Reserved. Personal use only; commercial use is strictly prohibited (for details see 
+Privacy Policy and Legal Notice).
+date: 04 August 2020
+Being in Nature
+A cross-cutting theme in this article is complexity. A recommended approach to working 
+with complexity is to embrace the uncertainties of intervention and policy implementation 
+addressing syndemics (Khan et al., 2018). What do climate, anxiety, and children have in 
+common? Depression and post-traumatic stress disorder are connected to global con­
+cerns of climate change, affecting children’s mental health as well as their physical 
+health (Clayton, Manning, Krygsman, & Speiser, 2017; Wiley, 2019). As the air that we 
+breathe becomes more polluted and may reduce child life expectancy, for example, in 
+Birmingham (Matthews-King, 2019), many adults, youth, and—interestingly—children ex­
+perience eco-anxiety. Eco-anxiety is a recent psychological disorder afflicting people who 
+show concerns about the environmental crisis (Castelloe, 2018). Research by Kassouf 
+suggests that people include their interaction with the Earth as a new object relation and 
+use ecotherapy as a treatment modality to channel a client’s emotional energy toward as­
+pects of the natural environment. Activities such as gardening, forest bathing, and com­
+munity recycling projects are examples of tackling mental health challenges associated 
+with climate change (Kassouf, 2017).
+The British Medical Journal published a study in 2005 that built on the concept of biophil­
+ia (Wilson, 1984) as well as that of Gregory Bateson’s theoretical framework for improv­
+ing health through conserving nature, also known as ecotherapy, or restoring health 
+through contact with nature (Burls & Caan, 2005).1
+In a review of 67 studies on nature immersion, also known as “forest bathing” and “Shin­
+rin-Yoku,” findings pointed to a reduction in human heart rate and blood pressure and an 
+increase in relaxation for participants exposed to natural green spaces (Bodeker et al., 
+2018). From a qualitative and psychological perspective, Danish participants reported a 
+sense of safety, calm, and overall general wellbeing following exposure or engagement 
+with nature. South Korean participants with a known alcohol addiction and high pretest 
+scores of depression benefited more from the Forest Therapy Camp than participants 
+with lower pretest scores of depression and alcohol abuse. Differences in culture, gender, 
+education, marital, or economic status were not associated with confounding factors in 
+many of the empirical studies (Hansen, Jones, & Tocchini, 2017).
+In considering the benefits of ecotherapy from a public policy perspective, green spaces 
+have been noted to achieve unanticipated social capital and natural capital outcomes 
+(Burls, 2007). The 7th-century master of Chinese medicine and encyclopedist Sun Simiao 
+advised that fresh air, daily walks in natural landscapes, and food from a fresh, whole­
+some garden cultivated in part by the owner were the fundamentals of creating and main­
+taining good health.
+Well-Being and Mental Wellness
+Page 22 of 44
+PRINTED FROM the OXFORD RESEARCH ENCYCLOPEDIA, GLOBAL PUBLIC HEALTH (oxfordre.com/publichealth). (c) Ox­
+ford University Press USA, 2020. All Rights Reserved. Personal use only; commercial use is strictly prohibited (for details see 
+Privacy Policy and Legal Notice).
+date: 04 August 2020
+Altruism
+Based on scientific evidence (Dulin & Hill, 2003; Liang, Krause, & Bennett, 2001), it is en­
+tirely plausible that altruism enhances mental health. Altruism is a character trait or be­
+haviour that pertains to the emotionally kind—those who are charitable in action toward 
+others (in moderation)—and is yet to be studied by mainstream public health researchers 
+(Oman, Thoresen, & McMahon, 1999) for its beneficial impact of positive emotional states 
+at a population health level (Post, 2005). The American Psychological Association high­
+lights six dimensions of health, of which emotions (emotional wellbeing), thoughts, and 
+action (psychological and behavioural wellbeing) are factors closely co-related to altruism 
+(Anderson, 2003) and enhance health by their ability to push aside negative emotions. Al­
+truism, or unselfish love toward others, repels feelings of “sadness/depression, fear/anxi­
+ety, and anger/hostility” according to Anderson (2003, p. 243). The generosity that comes 
+from a love of humanity is protective against “the big three” negative emotions—anger, 
+fear, and grief—which are a result of a preoccupation with the self (Anderson, 2003). 
+Transcending the self through acts of kindness and generosity is confirmed to protect 
+against morbidity and mortality, reducing the stress on the immune function, reducing 
+cortisol levels and blood pressure, and regulating endorphin production and norepineph­
+rine levels (Post, 2005).
+Cited in de Neve et al.’s (2019) research on pro-sociality in the workplace, an experiment 
+at a large Australian bank (Anik, Aknin, Norton, Dunn, & Quoidbach, 2013) found that 
+employees who randomly allocated their bonuses in the form of small financial contribu­
+tions to local charities, “showed significant, immediate improvements in job satisfaction 
+and happiness compared to employees who were not given these bonuses” (de Neve et 
+al., 2019, p. 102).
+Social Laughter
+Researchers from the University of Oxford, through a series of experiments, found that 
+pain thresholds, an indicator of endorphins being released into the bloodstream, were sig­
+nificantly higher after laughter. Dunbar et al. (2012) suggested that “laughter through an 
+endorphin-mediated opiate effect, may play a crucial role in social bonding (Dunbar et al., 
+2012, p. 1161). A subsequent study found that social laughter “increased pleasurable sen­
+sations and triggered endogenous opioid release in thalamus, caudate nucleus, and ante­
+rior insula” (Manninen et al., 2017, p. 6125)
+Global Wellness Policy
+European Union
+In European countries, worksite health and wellness (WHW) policy covered physical and 
+mental wellbeing, psychosocial issues, and the working environment. Greece, for exam­
+Well-Being and Mental Wellness
+Page 23 of 44
+PRINTED FROM the OXFORD RESEARCH ENCYCLOPEDIA, GLOBAL PUBLIC HEALTH (oxfordre.com/publichealth). (c) Ox­
+ford University Press USA, 2020. All Rights Reserved. Personal use only; commercial use is strictly prohibited (for details see 
+Privacy Policy and Legal Notice).
+date: 04 August 2020
+ple, focused on physical wellbeing, whereas in Lithuania, the focus was stronger on social 
+wellbeing. Respondents of an EU-wide survey reported having legislation in place relat­
+ing to some aspects of WHW and having a strategy for WHW in place, and noted that 
+countries were involved in promoting a range of WHW activities. Some of these activities 
+are (a) guidelines on WHW and healthy lifestyle; (b) healthy eating; (c) exercise and 
+smoking cessation campaigns; (d) drug and alcohol prevention; and (e) health examina­
+tions such as eye tests, glaucoma and cancer screening (Guazzi et al., 2014).
+United States of America
+Workplace Health in America 2017 is the first government survey of workplace health and 
+wellness programs in 13 years. The study found 69% of worksites had a health and well­
+ness program that had been operating for three years or longer. Stress management pro­
+grams were offered in 20% of worksites, and 14% provided programs to address exces­
+sive alcohol and other drug misuse (Centers for Disease Control and Prevention, 2019).
+United Kingdom
+The British government’s strategy for public health in England laid out in the Healthy 
+Lives, Healthy People paper (Secretary of State for Health, 2012) called for a new ap­
+proach to public health with mental health as an integral and complementary part of a 
+proposed new direction. The paper places health improvement as everyone’s responsibili­
+ty, where factors of self-esteem, confidence, and resilience are seen as key to health be­
+haviour change. This self-care focus is aligned with wellness philosophy and its emphasis 
+on self-guided pathways to wellbeing (Thompson, Watson, & Tilford, 2018).
+A subsequent British survey of GPs found almost three-quarters are seeing between one 
+and five people a day suffering from loneliness, which is a contributing factor to damag­
+ing health impacts such as cardiovascular disease, strokes, and dementia. The prime 
+minister’s office noted that around 200,000 older people had not had any social interac­
+tions with a friend or relative in more than a month (Gov.UK, 2018) and prompted the 
+government to launch a loneliness strategy and a ministerial portfolio. The long-term plan 
+by the National Health Service (NHS) is to allocate funding to connect patients to a vari­
+ety of activities, including walking clubs, art groups, cooking classes, and so on. Support 
+was received from high-profile businesses such as Sainsbury’s, Transport for London, Co- 
+op, British Red Cross, National Grid, and the Civil Service, all of which pledged to reduce 
+loneliness in the workplace and support employees’ health and social wellbeing (Gov.UK, 
+2018).
+Latin America
+Hispanic school children living in the United States have a lack of intervention programs 
+explicitly designed to meet the nutrition needs that physical activity requires. The Well­
+ness Policy from the Child Nutrition and Women’s, Infants and Children Reauthorization 
+Act of 2004 requires that schools produce and implement wellness policies that, since 
+Well-Being and Mental Wellness
+Page 24 of 44
+PRINTED FROM the OXFORD RESEARCH ENCYCLOPEDIA, GLOBAL PUBLIC HEALTH (oxfordre.com/publichealth). (c) Ox­
+ford University Press USA, 2020. All Rights Reserved. Personal use only; commercial use is strictly prohibited (for details see 
+Privacy Policy and Legal Notice).
+date: 04 August 2020
+2006–2007, tackle nutrition and sedentary behaviour because of the high rates of child­
+hood obesity and subsequently poor mental wellbeing among Hispanic children (Sawyer 
+& Oria, 2007). Resources to help schools develop wellness policies such as the CDC’s 
+School Health Index and USDA’s Changing the Scene guidelines. Besides, wellness policy 
+development tools, training from Action for Healthy Kids also includes specific Spanish 
+programs: My Pyramid for Kids, MiPiramide, and What to Eat (Sawyer & Oria, 2007).
+Chile
+Promondo Corporate Wellness, led by Professor Volney Henriquez, has celebrated 28 
+years of promoting wellness in the workplace. Its study laboratory measured the impact 
+of employee wellness on absenteeism and presenteeism. The results of its Productivity 
+Plus Survey contributed to the development of an intervention to address “musculoskele­
+tal pathologies, treatments for better sleep, reduction of work shifts, plans for prevention 
+of risks and safety at work, salary improvement, dynamics of approach between workers 
+and management (psychosocial risk), psychological support for workers and family, and 
+treatments for addiction” (Henriquez, 2019). Promondo has also shared all its data and 
+experiences with the National Productivity Commissions, to add validated metrics to in­
+crease investment in health and labour welfare.
+Brazil
+Empowering Women’s Wellness
+In Rio de Janeiro, business partners Shula Melamed and founder Bella Bablumian created 
+an innovative methodology for health that was designed to be neither boring nor arduous. 
+They report that their program is not composed of circuits, diets, and pills, but is one that 
+guides their clients toward “effortless wellness with intuitively healthy behaviours.” The 
+company’s focus is to help women become more in tune with natural needs and desires, 
+and to fulfill the body’s blueprint for a complete healthy being. For example, they view 
+stress, when used in the right way, as a positive source of energy and fitness.
+Community Mental Health: Projeto Quatro Varas
+An influential and innovative community mental health model in Fortaleza-Ceara, north­
+east of Brazil, is called “Projeto Quatro Varas,” and was co-founded by Dr Adalberto Bar­
+reto, a psychiatrist and mental health researcher, and his brother, Airton Barreto, a 
+lawyer. Dr Barreto generated the Community Therapy (CT) methodology to provide com­
+munity care grounded in both societal and academic understanding. He developed the CT 
+program initially in the favela of Fortaleza, after carrying out research showing that local 
+curanderos (Traditional Healers), who use herbs and other traditional cultural remedies, 
+have a positive impact on community health (Neville, 2008).
+The CT program consisted of a range of components, including collective therapy circles, 
+“living pharmacies,” (i.e., herbal medicines), and curing houses with complementary 
+treatments. He studied the importance of parteiras (traditional female obstetricians), the 
+Well-Being and Mental Wellness
+Page 25 of 44
+PRINTED FROM the OXFORD RESEARCH ENCYCLOPEDIA, GLOBAL PUBLIC HEALTH (oxfordre.com/publichealth). (c) Ox­
+ford University Press USA, 2020. All Rights Reserved. Personal use only; commercial use is strictly prohibited (for details see 
+Privacy Policy and Legal Notice).
+date: 04 August 2020
+value of raizeiros (medicinal plants) and rezadeiras (prayers) (XXX), and the cultural treat­
+ment of death, marital conflicts, and neighborhood disputes.
+The CT approach has now become widely diffused throughout Brazil and is used among 
+many different groups and populations, mainly through formal partnerships established 
+between the Universidade Federal do Ceara and various levels of federal, state, and mu­
+nicipal health services. In research conducted in 10,000 community therapy circles and 
+100,000 consultations, 88% of attendees had experienced improvement through commu­
+nity therapy and its support system. Based on these research findings and the success of 
+more than 600,000 therapeutic sessions, Dr. Barreto managed to get community therapy 
+approved as national public health policy, and trained 1,100 government public health 
+and social assistance employees (Barreto & Grandesso, 2010).
+A Model of “Leadership Through Love, Dedication, and Respect, to Improve 
+Population Wellness”
+The founder and CEO of Cecilia Negrini, a consultancy in the health sector in 2018, wrote 
+that the impeachment of the former Brazilian president, Dilma Roussef, was not the end 
+of corruption in the country. The people of Brazil lack inspiring leaders, and this had 
+caused severe consequences in several sectors in society, creating significant losses in 
+personal wellness and quality of life. Cecilia proposed the Servant Leadership model, cou­
+pled with coaching, to develop leaders in Brazil who are an example of character and jus­
+tice, and an inspiration for their population. Servant Leaders is a concept of leadership as 
+service to others, formulated by Robert K. Greenleaf (Greenleaf, 2002). The Servant 
+Leader coaching has been implemented in hospitals, clinics, and medical centres, as 
+clients of Cecilia Negrini, with outcomes that validate the effectiveness of the methodolo­
+gy (Negrini, 2018).
+Asia
+Throughout Asia, mental disorder results in productivity losses that hurt national 
+economies. In low-to middle-income countries (LMIC), fewer than 20% of people living 
+with a common mental disorder such as depression or anxiety have access to adequate 
+mental health treatment and care. Economic studies have also revealed the massive bur­
+den on national economies of lost productivity attributable to a high prevalence of mental 
+disorders. Many studies in LMIC have demonstrated that effective, and affordable treat­
+ments can be provided in low resource settings. Economic modelling has shown that in­
+vestments in mental health services produce substantial economic, social, and health re­
+turns (Arango et al., 2018; Vigo et al., 2019).
+A mental wellness strategy is preventive and focuses on building resilience at every level 
+of society, such as schools, workplace, and in the retired population, based on self-care or 
+self-help, group support, and community-based programs. Evidence is there to support 
+the efficacy of Asian traditions of wellbeing, such as meditation, yoga, and Tai Chi, and in­
+cluding individually tailored nutrition programs along with support from the local commu­
+Well-Being and Mental Wellness
+Page 26 of 44
+PRINTED FROM the OXFORD RESEARCH ENCYCLOPEDIA, GLOBAL PUBLIC HEALTH (oxfordre.com/publichealth). (c) Ox­
+ford University Press USA, 2020. All Rights Reserved. Personal use only; commercial use is strictly prohibited (for details see 
+Privacy Policy and Legal Notice).
+date: 04 August 2020
+nity and interest groups in the prevention and management of mental health conditions 
+by individuals themselves (Huang, Feng, Li, & Lu, 2017; Solloway et al., 2016).
+Asia is home to many of the wellness modalities that are now foundational in the global 
+wellness repertoire, and has been identified by Global Wellness Institute research as the 
+region showing the highest growth rate in the wellness economy. Yet Asia appears to be 
+suffering from a deficit in wellbeing within its shores.
+Research by the Asian Century Institute has found that only 14% of Asian respondents 
+are thriving in three or more elements, which is a score less than the global average and 
+equal to that of the former Soviet Union. Asia also scored poorly for a sense of purpose, 
+which consists of liking what you do each day and feeling motivated to achieve personal 
+goals. Only 13% of Asians are thriving in this aspect, equaling the Middle East and North 
+Africa for the world’s lowest score on this point. The continent also scored poorly for so­
+cial wellbeing, with only 19% thriving, but scored close to the world’s average when it 
+comes to financial, community, and physical wellbeing (West, 2014).
+Bhutan Gross National Happiness Index
+The term Gross National Happiness (GNH) Index, coined by the ruler of Bhutan, King 
+Jigme Singye Wangchuk in 1972, gave more importance to this index than to the Index of 
+gross domestic product. The construction of the GNH includes nine domains: psychologi­
+cal wellbeing, health, education, time use, cultural diversity and resilience, good gover­
+nance, community vitality, ecological diversity and resilience, and living standards. The 
+index is based on the Alkire–Foster method of multidimensional measurement adapted for 
+this purpose. The analysis explored levels of happiness by subsections of the demograph­
+ic and what policies can do to increase happiness and sufficiency among the unhappy and 
+marginally happy people (Centre for Bhutan Studies & GNH Research, 2016).
+United Arab Emirates
+In 2010, Dubai launched the UAE Vision 2021 policy, highlighting six priority areas for 
+the government:
+1. Cohesive society and preserved identity
+2. Safe public and fair judiciary
+3. Competitive knowledge economy
+4. First-rate education system
+5. World-class healthcare
+6. Sustainable environment and infrastructure. (Mathias, Fargher, & Beynon, 2018)
+Dubai’s ruler, H. H. Sheikh Mohammad, advised federal employees that “the 
+government’s role is to make the nation and the people happy.” In fostering this vision, he 
+incorporated the National Agenda and, in 2016, formulated the position of Minister of 
+State for Happiness and Wellbeing. The minister introduced a Happiness Index to mea­
+sure the nation’s happiness with government services, through the use of smart devices 
+Well-Being and Mental Wellness
+Page 27 of 44
+PRINTED FROM the OXFORD RESEARCH ENCYCLOPEDIA, GLOBAL PUBLIC HEALTH (oxfordre.com/publichealth). (c) Ox­
+ford University Press USA, 2020. All Rights Reserved. Personal use only; commercial use is strictly prohibited (for details see 
+Privacy Policy and Legal Notice).
+date: 04 August 2020
+(Mathias et al., 2018). A National Program for Happiness and Positivity was also devel­
+oped with the following goals: (a) incorporating happiness and positivity at work, (b) de­
+veloping tools for measuring happiness and its progress, and (c) fostering a political envi­
+ronment to make happiness and positivity a lifestyle (Schwartzstein, Hall, Chang, Sameh, 
+& Thapar, 2018).
+The National Program for Happiness covers four agendas and 16 portfolios. Its website 
+states:
+The Happiness Agenda will pursue an objective, scientific approach to influencing 
+happiness for the whole city. With a dedicated focus to measuring people’s happi­
+ness, our teams are continually researching and refining a scientific model for city 
+happiness that is informed by city-data. We are developing a live, target-driven 
+measurement tool to monitor satisfaction and happiness levels for the whole city. 
+Big data insights are not limited to the technology sector. By implementing cus­
+tomer satisfaction and sentiment analysis tools for the entire city, the Happiness 
+Agenda will empower decision-makers to act for people’ happiness in real-time, 
+supported by data
+(National Program for Happiness & Wellbeing, 2020)
+Aging Well
+Some countries in the Asia-Pacific region are now taking the lead to offer a regional mod­
+el such as Japan’s Asia Health and Wellbeing Initiative (AHWIN). AHWIN provides data 
+and resources on population aging and elderly care in Asia to help aging Asian societies 
+by providing Japanese knowledge and expertise on nursing care and social welfare sys­
+tems, as well as expanding related business opportunities as a nation at the forefront of 
+super-aging communities. Japan is also in the process of mainstreaming its traditional Iki­
+gai—“purpose in life” philosophy across all government ministries. Ikigai can be about the 
+joy a person finds in day-to-day living, or about values in life, a pragmatic, unique, and in­
+dividualized method of perceptions of one’s purpose in living (Mitsuhashi, 2018).
+A New Accounting
+In New Zealand, from 2019, the government will present an annual “wellbeing budget” to 
+gauge the long-term impact of policy on the quality of people’s lives. New Zealand Prime 
+Minister Jacinta Arden announced that
+the Wellbeing Budget will broaden the Budget’s focus beyond economic and fiscal 
+policy by using the Treasury’s Living Standards Framework to inform the 
+Government’s investment priorities and funding decisions. The Government will 
+Well-Being and Mental Wellness
+Page 28 of 44
+PRINTED FROM the OXFORD RESEARCH ENCYCLOPEDIA, GLOBAL PUBLIC HEALTH (oxfordre.com/publichealth). (c) Ox­
+ford University Press USA, 2020. All Rights Reserved. Personal use only; commercial use is strictly prohibited (for details see 
+Privacy Policy and Legal Notice).
+date: 04 August 2020
+measure and report against a broader set of indicators to show a more rounded 
+measure of success, as a country and as a Government.
+(Parker, 2019)
+Arden argued for a shift beyond short-term cycles and for seeing politics through a lens of 
+“kindness, empathy and wellbeing.”
+Workplace Wellness
+Workplace or corporate wellness will become a U.S.$7.4 billion market by the end of 
+2024, according to Transparency Market Research (Corporate Wellness Market, 2016). 
+Employees are increasingly expecting wellness programs within their workplace, particu­
+larly millennial job seekers who are driving this growth along with the abundance of new 
+technologies adopted as part of living well.
+Malaysia, a country with the highest NCD rates in Southeast Asia, saw a shift in govern­
+ment policy that in April 2019 required all public servants to take a 15-minute exercise 
+break every day (Singh, 2019). In India, corporations are increasingly offering wellness 
+programs for their employees, such as health check-ups, dietary advice, personalized 
+counselling sessions, and tele-counselling sessions. Although it is just in the beginning 
+stages, these wellness programs are proven tools for change in the workplace. As more 
+and more employees are making wellness a priority, employers have little choice but to 
+adapt to the changing landscape of work and wellness. Yoga has been trialled and found 
+useful in the treatment of diabetes according to two studies conducted in India. The stud­
+ies found that a yoga-based lifestyle for the remission of prediabetes and prevention of di­
+abetes was adequately productive for normal and overweight/obese groups. Yoga, there­
+fore, can be utilized as a part of workplace wellness policy to complement the efforts 
+made by employees outside of work (Arumugam et al., 2019; Nagarathna et al., 2019)
+The Contribution of Big Data to Well-Being Science and Policy
+Big data in the context of well-being and mental wellness refers to the large data sets that 
+contain multiple observations about individuals, often gathered without consent. The use 
+of mood analysis, for example, counting the positive and negative effect of words used in 
+Twitter feeds, Facebook posts, and many other social media profiles—whether through 
+mobile phone apps or websites—are becoming more common (Bellet & Frijters, 2019). 
+The potential gain from the use of big data, other than to tell current levels of mood and 
+life satisfaction, is to enable government and corporate entities to deliberately manipu­
+late programs or policies aimed at specific communities such as workplaces, childcare fa­
+cilities, or potential voters (Bellet & Frijters, 2019).
+Well-Being and Mental Wellness
+Page 29 of 44
+PRINTED FROM the OXFORD RESEARCH ENCYCLOPEDIA, GLOBAL PUBLIC HEALTH (oxfordre.com/publichealth). (c) Ox­
+ford University Press USA, 2020. All Rights Reserved. Personal use only; commercial use is strictly prohibited (for details see 
+Privacy Policy and Legal Notice).
+date: 04 August 2020
+Gallup Report and Global Findex
+The Gallup Report’s indexes of positive and negative experiences measure feelings and 
+emotions not captured by traditional methods used in the gross domestic product (GDP) 
+reports. According to de Neve et al. (2018), the use of measures of subjective well-being 
+in economic research is burgeoning. The 2019 Global Emotions Report, for example, is 
+based on 151,000 interviews with adults in more than 140 countries in 2018. Jon Clifton, 
+the global managing partner at Gallup, gives an example of why this measure provides a 
+data set that paints a better picture of global well-being and mental wellness. He says 
+that
+if you interview two women, one with a child and another without a child – which 
+one has more stress? On average, it’s the woman with the child. But if you asked 
+them to rate their overall lives—which one is higher? It’s also the woman with the 
+child. So, the woman with more stress also rates her life higher.
+(Global Emotions Report, 2019, p. 1)
+The Global Findex (in partnership with the World Bank) is an evidence-based indicator of 
+global efforts to promote financial inclusion. The Global Findex Database (2017) used to 
+track progress toward the United Nations Sustainable Development Goals (indicator 
+8.10.2), and the World Bank’s Goal to Universal Financial Access by 2020 included the 
+G20 Digital Financial Inclusion Indicators. The most recent survey in 2017 shows that 1.2 
+billion adults globally have opened a bank account since 2011. Approximately 69% of 
+adults worldwide, 3.8 billion people, now have a bank account with a physical bank or 
+with a mobile money provider. Research that uses subjective well-being data as a welfare 
+measure indicates that economic downturns have a “greater influence on wellbeing than 
+equivalent economic growth” (de Neve et al., 2018).
+Where to Next?
+The call to improve mental health services in a crisis of NCDs in WHO’s Mental Health At­
+las and the Mental Health Action Plan 2013–2000 (2013) is based on the high burden of 
+global mental health disorder. Mental health disorder is not just about clinical conditions 
+but also considers factors such as demographics, environment, and sociopolitical transi­
+tions, particularly in low-to middle-income countries (LMIC). The Lancet Commission 
+identified a four-pillar agenda to reference global mental health at a population level, 
+where the approach in addressing mental health syndemics requires systems thinking and 
+interdisciplinarity in public health programs and interventions (Mendenhall et al., 2017).
+The inadequate attention to financial needs of mental health programs in 63% of WHO 
+member states, brings to the fore a glaring challenge of insufficient resources, training of 
+healthcare professionals, and a lack of supporting community health workers with the 
+right technology and skills to create local solutions for a local context.
+Well-Being and Mental Wellness
+Page 30 of 44
+PRINTED FROM the OXFORD RESEARCH ENCYCLOPEDIA, GLOBAL PUBLIC HEALTH (oxfordre.com/publichealth). (c) Ox­
+ford University Press USA, 2020. All Rights Reserved. Personal use only; commercial use is strictly prohibited (for details see 
+Privacy Policy and Legal Notice).
+date: 04 August 2020
+Figure 4.  Schema of interdisciplinarity in addressing 
+the global burden of mental health disorder.
+The crisis in NCDs, along with the global burden of mental health disorders, requires pre­
+ventive strategies, approaches that build resilience in separate but interconnected levels 
+of society (i.e., educational institutions, workplaces, and aged care facilities), and inte­
+grates a wide variety of wellness modalities through well-trained public health practition­
+ers and policymakers. Efforts to reduce sedentary behaviour—even in hospitals during 
+acute care (also known as “deconditioning syndrome”)—as a result of fear of falls is 
+proven to be detrimental to recovery (McNally et al., 2017). As we implement this new 
+framework of mental health promotion, questions remain over how to measure effective­
+ness or success and what the indicators are that give us a 360-degree view of the mental 
+health of an individual as well as a population. What does the training of public health 
+practitioners look like when we consider the complexity of global mental health disorder 
+and the rising rates of NCDs in low- to middle-income countries?
+This article has brought to the discourse on well-being and mental wellness an evolving 
+paradigm, informed by evidence, measured with validated tools, and already in implemen­
+tation in different parts of the world, including in both civil society and the corporate sec­
+tor. An understanding of the importance of the first 1,000 days of life, the neuroplasticity 
+of our brain, and the potential for mental wellness to play an integral role in how people 
+grow, play, work, and live are changing the way people frame health promotion in the 
+21st century. The vast array of wellness modalities such as yoga, meditation, sleep, nutri­
+tion (Firth et al., 2019), technology, and the availability of real-time data are yet to be in­
+corporated into our vision of the future of public health education and program design.
+Implications for Public Health Education
+The Mailman School of Public Health (MPH) 2009 review of the Master of Public Health 
+Program found no school-wide requirements with developing interdisciplinary skills in 
+leadership, communication, and systems thinking. However, some departments and 
+tracks may have incorporated the skills independently (Begg, Galea, Bayer, Walker, & 
+Fried, 2014). As a result, after ten subcommittees and the involvement of 170 faculty in 
+Well-Being and Mental Wellness
+Page 31 of 44
+PRINTED FROM the OXFORD RESEARCH ENCYCLOPEDIA, GLOBAL PUBLIC HEALTH (oxfordre.com/publichealth). (c) Ox­
+ford University Press USA, 2020. All Rights Reserved. Personal use only; commercial use is strictly prohibited (for details see 
+Privacy Policy and Legal Notice).
+date: 04 August 2020
+the renewal of Columbia’s MPH program, a pattern emerged in the mapping of core skills 
+that are required for the school’s graduates to tackle the public health challenges of 2020 
+to 2050. In the context of the 21st-century crisis in NCDs and the syndemics that fuel its 
+rising rates, Mailman designed courses to foster decision-making skills as well as critical 
+and creative thinking. Students were challenged to specialize in an area outside their dis­
+ciplinary concentration. The idea behind this initiative is to expand the latitude in inter­
+disciplinary training (Begg et al., 2014).
+The WHO Report in 2006 stressed the importance of interdisciplinary collaboration 
+(WHO, 2006). The report encouraged key stakeholders to step outside disciplinary silos 
+and “work together through inclusive alliances and networks—local, national and global— 
+across health problems, professions, disciplines, ministries, sectors and 
+countries” (Jogerst et al., 2015, p. 241). To tackle tough problems and acknowledge the 
+complexity of the challenges facing public health administrators, interdisciplinary collab­
+oration becomes a foundation for reflection and action, spurring organizational change 
+from within through innovation in leadership (Kegan, Kegan & Lahey, 2009; Snowden, 
+2002). Relevant to this section is the identification of two Interprofessional Global Health 
+competencies from a systematic review of curricula around the world. One of these is the 
+ability to describe how cultural context influences the perception of health and disease; 
+the second has to do with the skills to co-design or co-create strategies with local commu­
+nities in using local assets and resources to improve health and well-being through the re­
+cruitment of diverse stakeholders and work within a team (Jogerst et al., 2015). At the un­
+dergraduate level of global health education, findings from a systematic review of univer­
+sities providing comprehensive health education recommend developing an interdiscipli­
+nary framework toward addressing the socioeconomic determinants of health and health 
+inequalities (Drain et al., 2017). Brewer (2017, p. 2) argued that public health profession­
+als addressing global health challenges should partner with not just “engineers or 
+lawyers, but philosophers, artists, anthropologists, and historians.” Brewer (2017, p. 2) 
+calls on the National Institutes of Health to fund the preservation of ancient texts of Chi­
+nese herbal medicine as only a few discoveries of the past decades have as “profound an 
+impact as on health globally as that made by YouTube and others.”
+One avenue that can be quite effective in addressing the global burden of mental health 
+disorder is for public health practitioners to use the competencies discussed earlier to 
+partner with educational settings and teachers in the development and implementation of 
+mental health interventions. The importance of embedding mental health content into ex­
+isting education and health policy in low- to middle-income countries is well recognized 
+(Kutcher et al., 2015). From the perspective of salutogenesis (Mittelmark et al., 2017) 
+thinking about mental health promotion in a framework that is comprehensible, manage­
+able, and meaningful for the public is a sustainable pathway for intervention. Comprehen­
+sibility, manageability, and meaningfulness stem from the recognition that promoting a 
+climate of unconditional positive regards and empathy, as well as developing the partici­
+pants’ unique capacities and extending coping resources to go beyond educational pro­
+grams and health literacy interventions (Mittelmark et al., 2017).
+Well-Being and Mental Wellness
+Page 32 of 44
+PRINTED FROM the OXFORD RESEARCH ENCYCLOPEDIA, GLOBAL PUBLIC HEALTH (oxfordre.com/publichealth). (c) Ox­
+ford University Press USA, 2020. All Rights Reserved. Personal use only; commercial use is strictly prohibited (for details see 
+Privacy Policy and Legal Notice).
+date: 04 August 2020
+Another aspect to consider in achieving innovation in the education and public health pro­
+grams is the inclusion of altruism, generous emotions, as behavioural goals so that they 
+take their rightful place in addressing mental health efforts in schools and workplaces. It 
+is possible that volunteerism, as an attribute of altruistic behaviour, becomes a standard 
+prescription for an aging population faced with social isolation and loneliness, as report­
+ed in the United Kingdom (Gov.UK, 2018)
+A movement to do good, as part of a public health agenda to focus on civic engagement 
+may require longitudinal studies to understand how best to manage population-level pro­
+grams based on the nurturing of benevolent effect and helpfulnessu without causing ad­
+verse effects such as “burn-out” syndrome and being overwhelmed.
+Conclusion
+There is little doubt that our understanding of the social determinants of health—and in 
+this case of well-being and mental wellness—is less “determining” and may only be “influ­
+ential.” When the possibilities for reframing the Global Mental Health framework in an 
+age of molecular genetics, neuroplasticity, and traditional and complementary medicine 
+are considered, an understanding begins to form that there is no turning back from an in­
+terdisciplinary genre of 21st-century public health practice.
+In moving forward, new metrics will be needed for assessing wellness policy, as will poli­
+cies accounting for cultural relativities such as promoting increased vegetable and fruit 
+consumption and reduced refined carbohydrate and red meat intake in South Asia. 
+School-based curriculum around wellness in everyday life and the science behind this will 
+be necessary for generational transformation to occur. Consumer demand will lead to a 
+shift in industry practice. Still, it will need to be accompanied by a government-led em­
+phasis on the production and supply of healthy foods and beverages as the required stan­
+dards for these products. Comparative policy research will help determine successful 
+strategies for creating wellness within and across sectors of society while accounting for 
+cost savings in health systems, loss of productivity, academic attainment ,and healthy ag­
+ing.
+The Global Wellness Institute reports that as a global society, people are coming together 
+to achieve everyday purposes and do essential work. The idea of work moving from me to 
+we have resulted in teams, global networks, partnerships, and ad hoc project groups that 
+have strategies for well-being. Organizations are exploring and implementing ways to fos­
+ter high-trust environments of mutual respect and psychological safety and improve the 
+shared outcomes they achieve. The movement is toward individual flourishing through 
+collective action (Global Wellness Institute, 2019).
+Well-Being and Mental Wellness
+Page 33 of 44
+PRINTED FROM the OXFORD RESEARCH ENCYCLOPEDIA, GLOBAL PUBLIC HEALTH (oxfordre.com/publichealth). (c) Ox­
+ford University Press USA, 2020. All Rights Reserved. Personal use only; commercial use is strictly prohibited (for details see 
+Privacy Policy and Legal Notice).
+date: 04 August 2020
+References
+Ambeskovic, M., Roseboom, T., & Metz, G. (2017, August 12). Transgenerational ef­
+fects of early environmental insults on aging and disease incidence. Neuroscience 
+& Biobehavioral Reviews.
+Anderson, N. (2003). Emotional longevity: What really determines how long you live. New 
+York, NY: Viking.
+Anik, L., Aknin, L. B., Norton, M. I., Dunn, E. W., & Quoidbach, J. (2013). Prosocial 
+bonuses increase employee satisfaction and team performance. PLoS One, 8(9), 
+e75509.
+Arango, C., Diaz-Caneja, C., McGorry, P., Rapoport, J., Sommer, I., Vorstman, J., McDaid, 
+D., Marin, O., Serrrano-Drozdowskyj, E., Freedman, R., and Carpenter, W. (2018). Preven­
+tive strategies for mental health. The Lancet Psychiatry, 5(7), 591–604.
+Arumugam, G., Raghuram, N., Majumdar, V., Singh, M., Rambabu, S., Ram, V., and Nagen­
+dra, H. (2019). Effectiveness of yoga-based lifestyle treatment in achieving com­
+posite treatment goals for Type 2 diabetes in a rural set up of South India—A ret­
+rospective study. The Lancet.
+Barouki, R., Gluckman, P. D., Grandjean, P., Hanson, M., & Heindel, J. J. (2012). Develop­
+mental origins of non-communicable disease: Implications for research and pub­
+lic health. Environmental Health: A Global Access Science Source, 11(1), 42.
+Barreto, A., & Grandesso, M. (2010). Community therapy: A participatory response 
+to psychic misery. International Journal of Narrative Therapy and Community Work, 4, 
+33–41.
+Bateson, P., Barker, D., Clutton-Brock, T., Deb, D., D’Udine, B., Foley, R., Gluckman, P., 
+Godfrey, K., Kirkwood, T., Lahr, M., and McNamara, J. (2004). Developmental plasticity 
+and human health. Nature, 430(6998), 419–421.
+Bateson, P., Gluckman, P., & Hanson, M. (2014). The biology of developmental plastic­
+ity and the Predictive Adaptive Response hypothesis. Journal of Physiology, 592(11), 
+2357–2368.
+Begg, M. D., Galea, S., Bayer, R., Walker, J. R., & Fried, L. P. (2014). MPH education for 
+the 21st century: Design of Columbia University’s new public health curriculum. 
+American Journal of Public Health, 104(1), 30–36.
+Bell, C. (2017). The epigenomic analysis of human obesity. Obesity, 25, 1471–1482.
+Bellet, C., & Frijters, P. (2019). Big data and wellbeing. In J. F. Helliwell, R. Layard, & J. 
+Sachs (Eds.), World happiness report (pp. 97–122). New York, NY: The Earth Institute, Co­
+lumbia University.
+Well-Being and Mental Wellness
+Page 34 of 44
+PRINTED FROM the OXFORD RESEARCH ENCYCLOPEDIA, GLOBAL PUBLIC HEALTH (oxfordre.com/publichealth). (c) Ox­
+ford University Press USA, 2020. All Rights Reserved. Personal use only; commercial use is strictly prohibited (for details see 
+Privacy Policy and Legal Notice).
+date: 04 August 2020
+Bodeker, G., Aleksandrowicz, B., Board, N., Brepohl, M., Choy, L., Friedland, D., Hernan­
+dez, A., Hoare, B., Isaac, F., O’Keeffe, V., Pecorelli, S., Ranzi, R., and Stoessel, V. (2018). 
+Mental wellness: Pathways, evidence and horizons. Miami, FL: Global Wellness Insti­
+tute
+Bonaz, B., Bazin, T., & Pellisier, S. (2018). The vagus nerve at the interface of the mi­
+crobiota-gut-brain axis. Frontiers in Neuroscience, 12, 49.
+Branca, F. (2019, December 16). Poorest countries facing both obesity and malnutrition. 
+British Broadcasting Corporation News
+Brewer, T. (2017). Undergraduate global health degrees: The time is right. American Jour­
+nal of Tropical Medicine and Hygiene, 96(1), 7–8.
+Burls, A. (2007). People and green spaces: Promoting public health and mental well-being 
+through ecotherapy. Journal of Public Mental Health, 6(3), 24–39.
+Burls, A., & Caan, W. (2005). Human health and nature conservation. British Medical 
+Journal, 331(7527), 1221–1222.
+Cajochen, C., Altanay-Ekici, S., Munch, M., Frey, S., Knoblauch, S., & Wirz-Justice, A. 
+(2013). Evidence that the lunar cycle influences human sleep. Current Biology, 23(15), 
+1485–1488.
+Castelloe, M. (2018, January 9). Coming to terms with ecoanxiety. Psychology Today.
+Centers for Disease Control and Prevention (CDC). (2019, April 22). CDC: Half of work­
+places offer health/wellness programs.
+Centre for Bhutan Studies & GNH Research. (2016). A compass towards a just and 
+harmonious society: 2015 GNH survey report. Thimpu, Bhutan: Centre for Bhutan 
+Studies & GNH Research.
+Chakraborty, U. (2014). Effects of different phases of the lunar month on humans. Biologi­
+cal Rhythm Research, 45(3), 383–396.
+Christmas, C. M., & Khanlou, N. (2018). Defining youth resilience: A scoping review. In­
+ternational Journal of Mental Health and Addiction, 17(3), 731–742.
+Clayton, S., Manning, C., Krygsman, K., & Speiser, M. (2017). Mental health and our 
+changing climate: Impacts, implications, and guidance. Washington DC: American 
+Psychological Association.
+Conklin, Q. A., King, B. G., Zanesco, A. P., Lin, J., Hamidi, A. B., Pokorny, J. J., Álvarez- 
+López, M., Cosín-Tomás, M., Huang, C., Kaliman, P., and Epel, E. (2018). Insight medita­
+tion and telomere biology: The effects of intensive retreat and the moderating 
+role of personality. Brain, Behavior, and Immunity, 70, 233–245.
+Well-Being and Mental Wellness
+Page 35 of 44
+PRINTED FROM the OXFORD RESEARCH ENCYCLOPEDIA, GLOBAL PUBLIC HEALTH (oxfordre.com/publichealth). (c) Ox­
+ford University Press USA, 2020. All Rights Reserved. Personal use only; commercial use is strictly prohibited (for details see 
+Privacy Policy and Legal Notice).
+date: 04 August 2020
+Corburn, J., & Hildebrand, C. (2015). Slum sanitation and the social determinants of 
+women’s health in Nairobi, Kenya. Journal of Environmental and Public Health, 2015, 
+209505.
+Corporate Wellness Market. (2016, August 8). Transparency Markey Research.
+Danzter, R., O’Connor, J., Freund, G., Johnson, R., & Kelley, K. (2008). From inflammation 
+to sickness and depression: When the immune system subjugates the brain. Nature Re­
+views Neuroscience, 9(1), 46.
+de Neve, J.-E., Blankson, A., Clark, A., Cooper, C., James, H., Krekel, C., Lim, J., Litchfield, 
+P., Moss, J., Norton, M., Rojas, M., Ward, G., Whillans, A. V. (2019). Work and well-be­
+ing: A global perspective. In Global Council for Happiness and Wellbeing Council 
+(Eds.), Global happiness and wellbeing policy report 2019 (pp. 74–128). New York, NY: 
+Sustainable Development Solutions Network.
+de Neve, J. E., & Ward, G. (2017). Happiness at work. (CEP Discussion Paper No. 474). 
+London, U.K.: Center for Economic Performance, London School of Economics and Politi­
+cal Science.
+de Neve, J.-E., Ward, G., De Keulenaer, F., Van Landeghem, B., Kavetsos, G., & Norton, M. 
+(2018). The asymmetric experience of positive and negative economic growth: Global evi­
+dence using subjective well-being data. Review of Economics and Statistics, 100(2), 362– 
+375.
+Diener, E., & Seligman, M. E. P. (2004). Beyond money: Toward an economy of well- 
+being. Psychological Science in the Public Interest, 5(1), 1–31.
+Dodge, R., Daly, A. P., Huyton, J., & Sanders, L. D. (2012). The challenge of defining 
+wellbeing. International Journal of Wellbeing, 2(3), 222–235.
+Doty, R. (2017). Olfactory dysfunction in neurodegenerative diseases: Is there a common 
+pathological substrate? The Lancet Neurology, 16(6), 478–488.
+Douaud, G., Refsum, H., De Jager, C. A., Jacoby, R., Nichols, T. E., Smith, S. M., and Smith, 
+A. D. (2013). Preventing Alzheimer’s disease-related gray matter atrophy by B-vit­
+amin treatment. Proceedings of the National Academy of Sciences, 100(23), 9523–9528.
+Drain, P., Mock, C., Toole, D., Rosenwald, A., Jehn, M., Csordas, T., Ferguson, L., Waggett, 
+C., Obidoa, C., and Wasserheit, J. (2017). The emergence of undergraduate majors in glob­
+al health: Systematic review of programs and recommendation for future directions. 
+American Journal of Tropical Medicine and Hygiene, 96(1), 16–23.
+Dulin, P., & Hill, R. (2003). Relationships between altruistic activity and positive and neg­
+ative affect among low-income older adult service providers. Aging and Mental Health, 
+7(4), 294–299.
+Well-Being and Mental Wellness
+Page 36 of 44
+PRINTED FROM the OXFORD RESEARCH ENCYCLOPEDIA, GLOBAL PUBLIC HEALTH (oxfordre.com/publichealth). (c) Ox­
+ford University Press USA, 2020. All Rights Reserved. Personal use only; commercial use is strictly prohibited (for details see 
+Privacy Policy and Legal Notice).
+date: 04 August 2020
+Dunbar, R. I. M., Baron, R., Frangou, A., Pearce, E., van Leeuwen, E. J. C., Stow, J., Par­
+tridge, G., Macdonald, I., Barra, V., and van Vugt, M. (2012). Social laughter is corre­
+lated with an elevated pain threshold. Proceedings of the Royal Society B: Biological 
+Sciences, 279(1731), 1161–1167.
+Economist Intelligence Unit. (2014). Measuring wellness: From data to insights.
+Epel, E., Daubenmier, J., Moskowitz, J., Folkman, S., & Blackburn, E. (2009). Can medita­
+tion slow rate of cellular aging? Cognitive stress, mindfulness, and telomeres. Annals of 
+the New York Academy of Sciences, 1172(1), 34–53.
+Ferrari, A. J., Norman, R. E., Freedman, G., Baxter, A. J., Pirkis, J. E., Harris, M. G., Page, 
+A., Carnahan, E., Degenhardt, L., Vos, T., and Whiteford, H. A. (2014). The burden at­
+tributable to mental and substance use disorders as risk factors for suicide: Find­
+ings from the Global Burden of Disease Study 2010. PLoS One, 9(4), 1–11.
+Firth, J., Teasdale, S. B., Allott, K., Siskind, D., Marx, W., Cotter, J., Veronese, N, Schuch, 
+F., Smith, L., Solmi, M., and Carvalho, A.F. (2019). The efficacy and safety of nutrient 
+supplements in the treatment of mental disorders: A meta-review of meta-analy­
+ses of randomized controlled trials. World Psychiatry, 18(3), 308–324.
+Forgeard, M. J., Jayawickreme, E., Kern, M. L., & Seligman, M. E. (2011). Doing the 
+right thing: Measuring wellbeing for public policy. International Journal of 
+Wellbeing, 1(1), 79–106.
+Frey, B. S., & Stutzer, A. (2010). Happiness and public choice. Public Choice, 144, 557– 
+573.
+Gallup. (2019). Global Emotions Report. Washington DC: Gallup World Headquarters.
+Gehring, U., Tamburic, L., Sbihi, H., Davies, H., & Brauer, M. (2014). Impact of noise and 
+air pollution on pregnancy outcomes. Epidemiology, 25(3), 351–358.
+Gilbert, B. J., Patel, V., Farmer, P. E., & Lu, C. (2015). Assessing development assis­
+tance for mental health in developing countries: 2007–2013. PLoS Medicine, 12(6), 
+e1001834.
+Global Wellness Institute. (2016). The future of wellness at work. New York, NY: Global 
+Wellness Institute.
+Global Wellness Institute. (2019). Wellness at work initiative trends 2019.
+Gluckman, P., & Hanson, M. (2004). Living with the past: Evolution, development, and 
+patterns of disease. Science, 305(5691), 1733–1736.
+Godfrey, K. M. K., Lillycrop, K. A., Burdge, G. C. G., Gluckman, P. P. D., & Hanson, M. A. 
+(2007). Epigenetic mechanisms and the mismatch concept of the developmental 
+origins of health and disease. Pediatric Research, 61, 5–10.
+Well-Being and Mental Wellness
+Page 37 of 44
+PRINTED FROM the OXFORD RESEARCH ENCYCLOPEDIA, GLOBAL PUBLIC HEALTH (oxfordre.com/publichealth). (c) Ox­
+ford University Press USA, 2020. All Rights Reserved. Personal use only; commercial use is strictly prohibited (for details see 
+Privacy Policy and Legal Notice).
+date: 04 August 2020
+Goldstein, M. (1993). Decade of the brain: National Institute of Neurological Disor­
+ders and Stroke. Neurosurgery, 32(2), 297.
+Gov.UK. (2018). PM launches government’s first loneliness strategy. (2018, October 
+15).
+Greenleaf, R.K. (2002). Servant leadership: A journey into the nature of legitimate power 
+and greatness. Paulist Press. NJ: USA.
+Guazzi, M., Faggiano, P., Mureddu, G. F., Faden, G., Niebauer, J., & Temporelli, P. L. 
+(2014). Worksite health and wellness in the European Union. Progress in Cardiovas­
+cular Diseases, 56(5), 508–514.
+Gurin, G., Veroff, J., & Feld, S. (1960). Americans view their mental health: A nationwide 
+interview survey. New York, NY: Basic Books.
+Hanc, M., McAndrew, C., & Ucci, M. (2019). Conceptual approaches to wellbeing in 
+buildings: A scoping review. Building Research and Information, 47(6), 767–783.
+Hansen, M. M., Jones, R., & Tocchini, K. (2017). Shinrin yoku (forest bathing) and na­
+ture therapy: A state-of-the-art review. International Journal of Environmental Re­
+search and Public Health, 14(8), 851.
+Harris, A., & Seckl, J. (2011). Glucocorticoids, prenatal stress and the programming of 
+disease. Hormones and Behaviour, 59(3), 279–289.
+Helliwell, J.F., Huang, H., & Wang, S. (2019). Changing world happiness. In J. G. Helliwell, 
+R. Layard, & J. Sachs (Eds.), World happiness report 2019 (p. 10). New York, NY: Sustain­
+able Development Solutions Network.
+Henriquez, V. (2019, October 2). Exploring the health and productivity link in 
+Chilean companies. Stevens Point, WI: National Wellness Institute.
+Huang, Z., Feng, Y., Li, Y., & Lu, C. (2017). Systematic review and meta-analysis: Tai Chi 
+for preventing falls in older adults. BMJ Open, 7(2), e013661.
+Huppert, F. A., Marks, N., Clark, A., Siegrist, J., Stutzer, A., Vittersø, J., & Wahrendorf, M. 
+(2009). Measuring well-being across Europe: Description of the ESS Well-being 
+Module and preliminary findings. Social Indicators Research, 91(3), 301–315.
+Jacka, F. (2017). Where to next? EBioMedicine, 17, 24–29.
+James, S. L., Abate, D., Abate, K. H., Abay, S. M., Abbafati, C., Abbasi, N., . . . Murray, C. J. 
+L. (2018). Global, regional, and national incidence, prevalence, and years lived 
+with disability for 354 Diseases and Injuries for 195 countries and territories, 
+1990–2017: A systematic analysis for the Global Burden of Disease Study 2017. 
+The Lancet, 392(10959), 1789–1858.
+Well-Being and Mental Wellness
+Page 38 of 44
+PRINTED FROM the OXFORD RESEARCH ENCYCLOPEDIA, GLOBAL PUBLIC HEALTH (oxfordre.com/publichealth). (c) Ox­
+ford University Press USA, 2020. All Rights Reserved. Personal use only; commercial use is strictly prohibited (for details see 
+Privacy Policy and Legal Notice).
+date: 04 August 2020
+Jimenez-Chillaron, J., Ramon-Krauel, M., Ribo, S., & Diaz, R. (2016). Transgenerational 
+epigenetic inheritance of diabetes risk as a consequence of early nutritional im­
+balances. Proceedings of the Nutrition Society, 75(1), 78–89.
+Jogerst, K., Callender, B., Adams, V., Evert, J., Fields, E., Hall, T., Olsen, J., Rowthorn, V., 
+Rudy, S., Shen, J., and Simon, L. (2015). Identifying interprofessional global health compe­
+tencies for 21st-century health professionals. Annals of Global Health, 81(2), 239–247.
+Jorm, A. F., Patten, S. B., Brugha, T. S., & Mojtabai, R. (2017). Has increased provision 
+of treatment reduced the prevalence of common mental disorders? Review of the 
+evidence from four countries. World Psychiatry, 16(1), 90–99.
+Kahneman, D. (2003). Puzzles of well-being. Washington DC: American Economics Associ­
+ation.
+Kassouf, S. (2017). Psychoanalysis and climate change: Revisiting Searles’ the nonhuman 
+environment, rediscovering Freud’s phylogenetic fantasy, and imagining ad future. Ameri­
+can Imago, 74(2), 141–171.
+Kegan, R., Kegan, L. L. L. R., & Lahey, L. L. (2009). Immunity to change: How to over­
+come it and unlock potential in yourself and your organization. Cambridge, MA: Harvard 
+Business Press.
+Kern, M. L., Waters, L. E., Adler, A., & White, M. A. (2015). A multidimensional ap­
+proach to measuring well-being in students: Application of the PERMA frame­
+work. Journal of Positive Psychology, 10(3), 262–271.
+Keyes, C. L. M. (1998). Social well-being. Social Psychology Quarterly, 61(2), 121–140.
+Khan, S., Vandermorris, A., Shepherd, J., Begun, J. W., Lanham, H. J., Uhl-Bien, M., and 
+Berta, W. (2018). Embracing uncertainty, managing complexity: Applying complexi­
+ty thinking principles to transformation efforts in healthcare systems. BMC Health 
+Services Research, 18(1), 1–8.
+Kohll, A. (2018, February 27). Are you measuring the real impact of your employee 
+wellness program? Forbes.
+Kutcher, S., Gilberds, H., Morgan, C., Greene, R., Hamwaka, K., & Perkins, K. (2015). Im­
+proving Malawian teachers’ mental health knowledge and attitudes: An integrated school 
+mental health literacy approach. Cambridge, U.K.: Cambridge University Press.
+Layard, R. (2011). Happiness: Lessons from a new science. London, U.K.: Penguin.
+Liang, J., Krause, N., & Bennett, J. (2001). Social exchange and wellbeing: Is giving better 
+than receiving? Psychology and Aging, 16(3), 511–523.
+Magyar, J. L., & Keyes, C. L. M. (2019). Defining, measuring, and applying subjective 
+well-being. In M. W. Gallagher & S. J. Lopez (Eds.), Positive psychological assessment: A 
+Well-Being and Mental Wellness
+Page 39 of 44
+PRINTED FROM the OXFORD RESEARCH ENCYCLOPEDIA, GLOBAL PUBLIC HEALTH (oxfordre.com/publichealth). (c) Ox­
+ford University Press USA, 2020. All Rights Reserved. Personal use only; commercial use is strictly prohibited (for details see 
+Privacy Policy and Legal Notice).
+date: 04 August 2020
+handbook of models and measures (2nd ed., pp. 389–415). Washington DC: American Psy­
+chological Association.
+Manninen, S., Tuominen, L., Dunbar, R. I., Karjalainen, T., Hirvonen, J., Arponen, E., 
+Jääskeläinen, I.P., Sams, M., and Nummenmaa, L. (2017). Social laughter triggers en­
+dogenous opioid release in humans. Journal of Neuroscience, 37(25), 6125–6131.
+Mathias, M., Fargher, S., & Beynon, M. (2018). Exploring the link between integrated 
+leadership in government and follower happiness: The case of Dubai. International Re­
+view of Administrative Science, 85(4), 780–798.
+Matthews-King, A. (2019, July 7). Air pollution cuts up to seven months off child life 
+expectancy in Birmingham, research suggests. The Independent.
+McNally, S., Nunan, D., Dixon, A., Maruthappu, M., Butler, K., & Gray, M. (2017). Focus 
+on physical activity can help avoid unnecessary social care. BMJ (Online), 359, 1–4.
+Meiselman, H. L. (2016). Quality of life, well-being and wellness: Measuring subjective 
+health for foods and other products. Food Quality and Preference, 54, 101–109.
+Mendenhall, E., Kohrt, B. A., Norris, S. A., Ndetei, D., & Prabhakaran, D. (2017). Non- 
+communicable disease syndemics: Poverty, depression, and diabetes among low- 
+income populations. The Lancet, 389(10072), 951–963.
+Michaelson, J., Mahony, S., & Schifferes, J. (2012). Measuring wellbeing: A guide for prac­
+titioners. London, U.K.: New Economics Foundation.
+Mittelmark, M. B., Sagy, S., Eriksson, M., Bauer, G. F., Pelikan, J. M., Lindström, B., & Es­
+pnes, G. A. (2017). The handbook of salutogenesis. Cham, Switzerland: Springer.
+Mitsuhashi, Y. (2018). Ikigai: Giving every day meaning and joy. London, U.K: Hachette.
+Moussaoui, N., Jacobs, J., Larauche, M., Biraud, M., Million, M. E. M., & Taché, Y. (2017). 
+Chronic early-life stress in rat pups alters basal corticosterone, intestinal permeability, 
+and fecal microbiota at weaning: Influence of sex. Journal of Neurogastroenterology and 
+Motility, 23(1), 135–143.
+Nagarathna, R., Ram, V., Rajesh, S., Singh, A., Majumdar, V., Patil, S., & Nagendra, H. 
+(2019). 129-OR: Diabetes prevention through yoga-based lifestyle: A pan-India 
+randomized control trial. Diabetes, 68(Suppl. 1).
+National Center for Complementary and Integrative Health. (2019). Massage therapy: 
+What you need to know.
+National Program for Happiness and Wellbeing (2020). Government of the United Arab 
+Emirates. (Accessed 26.05.2020)
+Negrini, C. (2018). Coaching leaders in Brazil for improved wellness outcomes. 
+Stevens Point, WI: National Wellness Institute.
+Well-Being and Mental Wellness
+Page 40 of 44
+PRINTED FROM the OXFORD RESEARCH ENCYCLOPEDIA, GLOBAL PUBLIC HEALTH (oxfordre.com/publichealth). (c) Ox­
+ford University Press USA, 2020. All Rights Reserved. Personal use only; commercial use is strictly prohibited (for details see 
+Privacy Policy and Legal Notice).
+date: 04 August 2020
+Neville, M. (2008). When poor is rich: Transformative power of I-Thou relationships in a 
+Brazilian favela. Gestalt Review, 12(3), 248–266.
+O’Neil, A., Quirk, S., Housden, S., Brennan, S., Williams, L., Pasco, J.A., Berk, M., and Jac­
+ka, F. (2014). Relationship between diet and mental health in children and adolescents: A 
+systematic review. American Journal of Public Health, 104(10), 31–42.
+Organisation of Economic Co-operation and Development (OECD). (2011). Better life 
+initiative: Measuring well-being and progress.
+Organisation for Economic Co-operation and Development (OECD). (2013a). OECD frame­
+work for statistics of the distribution of household income, consumption and wealth. 
+Paris, France: OECD.
+Organisation for Economic Co-operation and Development (OECD). (2013b). OECD 
+Guidelines on measuring subjective wellbeing. Washington DC: OECD.
+Oman, D., Thoresen, C., & McMahon, K. (1999). Volunteerism and mortality among 
+the community-dwelling elderly. Journal of Health Psychology, 4(3), 301–316.
+Our Approach. (n.d.). Happiness Agenda.
+Oxford Economics & National Centre For Social Research. (2019). The Sainsbury’s liv­
+ing well index.
+Panter-Brick, C. (2014). Health, risk, and resilience: Interdisciplinary concepts and 
+applications. Annual Review of Anthropology, 43(1), 431–448.
+Parker, C. (2019, January 23). New Zealand will have a new “well-being budget” says 
+Jacinda Ahern. World Economic Forum.
+Patel, V., Saxena, S., Lund, C., Thornicroft, G., Baingana, F., Bolton, P., Chisholm, and 
+Collins, P.Y. (2018). The Lancet Commission on global mental health and sustain­
+able development. The Lancet, 392(10157), 1553–1598.
+Pathare, S., Brazinova, A., & Levav, I. (2018). Care gap: A comprehensive measure to 
+quantify unmet needs in mental health.Epidemiology and Psychiatric Sciences, 27(5), 
+463–467.
+Peterman, A. H., Fitchett, G., Brady, M. J., Hernandez, L., & Cella, D. (2002). Measuring 
+spiritual well-being in people with cancer: The functional assessment of chronic illness 
+therapy. Annals of Behavioral Medicine, 24(1), 49–58.
+Pinto-Sanchez, M., Ford, A., Avila, A., Verdu, E., Collins, S., Morgan, D., Moayeddi, P., and 
+Bercik, P. (2015). Anxiety and depression increase in a stepwise manner in parallel with 
+multiple FGIDs and symptom severity and frequency. American Journal of Gastroenterolo­
+gy, 110(7), 1038–1048.
+Well-Being and Mental Wellness
+Page 41 of 44
+PRINTED FROM the OXFORD RESEARCH ENCYCLOPEDIA, GLOBAL PUBLIC HEALTH (oxfordre.com/publichealth). (c) Ox­
+ford University Press USA, 2020. All Rights Reserved. Personal use only; commercial use is strictly prohibited (for details see 
+Privacy Policy and Legal Notice).
+date: 04 August 2020
+Post, S. (2005). Altruism, happiness, and health: It’s good to be good. International 
+Journal of Behavioral Medicine, 12(2), 66–77.
+Reber, A. (1995). The Penguin Dictionary of Psychology. Penguin Press.
+Rees, B., Travis, F., Shapiro, D., & Chant, R. (2014). Significant reductions in post-trau­
+matic stress symptoms in Congolese refugees within 10 days of transcendental medita­
+tion practice. Journal of Traumatic Stress, 27(1), 112–115.
+Rook, D. (2015). Five key factors in measuring wellness. J.P. Griffin Group.
+Russo, S., Murrough, J., Han, M.-H., Charney, D., & Nestler, E. (2012). Neurobiology of 
+resilience. Nature Neuroscience, 15(11), 1475–1484.
+Ryan & Deci. (2001). From pp. 8, 15.
+Sainsbury’s.& Oxford Economics. (2018). The Sainsbury’s living well index. Oxford 
+Economics & National Centre for Social Research.
+Sarris, J., Mischoulon, D., & Schweitzer, I. (2012). Omega-3 for bipolar disorder: Meta- 
+analyses of use in mania and bipolar depression. Journal of Clinical Psychiatry, 73(1), 81– 
+86.
+Sawyer, K., & Oria, M. (Eds.). (2007). Joint US-Mexico workshop on preventing obesity in 
+children and youth of Mexican origin: Summary. Washington DC: National Academies 
+Press, Institute of Medicine Food and Nutrition Board.
+Schwartzstein, J., Hall, B., Chang, T., Sameh, K., & Thapar, A. (2018). Happy UAE. Boston, 
+MA: Harvard Business.
+Secretary of State for Health. (2012). Healthy lives, healthy people: Our strategy for 
+public health in England. London, U.K.: Controller of Her Majesty’s Stationery Office.
+Seligman, M. E. P. (2011). Flourish. New York, NY: Simon & Schuster.
+Seligman, M. E. P., Parks, A. C., & Steen, T. (2004). A balanced psychology and a full 
+life. Philosophical Transactions of the Royal Society B: Biological Sciences, 359(1449), 
+1379–1381.
+Singh, S. (2019, April 20). PSD: Civil servants to get 15-minute x-breaks. The Star.
+Snowden, D. (2002). Complex acts of knowing: Paradox and descriptive self-awareness. 
+Journal of Knowledge Management, 6(2), 100–111.
+Solloway, M., Taylor, S., Shekelle, P., Miake-Lye, I., Beroes, J., Shanman, R., & Hempel, S. 
+(2016). An evidence map of the effect of Tai Chi on health outcomes. Systematic Re­
+views, 5(1), 126.
+Well-Being and Mental Wellness
+Page 42 of 44
+PRINTED FROM the OXFORD RESEARCH ENCYCLOPEDIA, GLOBAL PUBLIC HEALTH (oxfordre.com/publichealth). (c) Ox­
+ford University Press USA, 2020. All Rights Reserved. Personal use only; commercial use is strictly prohibited (for details see 
+Privacy Policy and Legal Notice).
+date: 04 August 2020
+Stiglitz, J. E., Sen, A., & Fitoussi, J. P. (2017). Report by the Commission on the mea­
+surement of economic performance and social progress. Luxembourg: European 
+Commission.
+Steel, Z., Marnane, C., Iranpour, C., Chey, T., Jackson, J. W., Patel, V., & Silove, D. (2014). 
+The global prevalence of common mental disorders: A systematic review and 
+meta-analysis 1980–2013. International Journal of Epidemiology, 43(2), 476–493.
+Teigen, K. (1994). Yerkes-Dodson: A law for all seasons. Theory & Psychology, 4(4), 525– 
+547.
+The Global Findex Database 2017. (2017). The World Bank.
+Thompson, S. R., Watson, M. C., & Tilford, S. (2018). The Ottawa Charter 30 years on: 
+Still an important standard for health promotion. International Journal of Health 
+Promotion and Education, 56(2), 1–12.
+Tomljenovic, H., Begic, D., & Mastrovic, Z. (2016). Changes in trait brainwave power and 
+coherence, state and trait anxiety after three month transcendental meditation (TM) prac­
+tice. Psychiatria Danubina, 28(1), 63–72.
+Tusaie, K., Puskar, K., & Sereika, S. M. (2007). A predictive and moderating model of psy­
+chosocial resilience in adolescents. Journal of Nursing Scholarship, 39(1), 54–60.
+United Nations (UN). (2011, August 25). Resolution adopted by the General Assem­
+bly on 19 July 2011: 65/309: Happiness; towards a holistic approach to develop­
+ment.
+United Nations (UN). (2012). Defining a new economic paradigm. The report of the 
+high level meeting on wellbeing and happiness. New York, NY: UN Headquarters.
+Veenhoven, R. (2008). Sociological theories of subjective well-being. In M. Eid & R. J. 
+Larsen (Eds.), The science of subjective well-being: A tribute to Ed Diener (pp. 44–61). 
+New York, NY: Guilford.
+Vigo, D., Patel, V., Becker, A., Bloom, D., Yip, W., Raviola, G., Saxena, S., and Kleinman, A. 
+(2019). A partnership for transforming mental health globally. The Lancet Psychiatry, 
+6(4), 350–356.
+Wallace, R. (1970). Physiological effects of transcendental meditation. Science, 27(167), 
+1751–1754.
+Wang, H., & Wang, Y. (2016). Gut microbiota-brain axis. Chinese Journal of Medicine, 
+129(19), 2373.
+West-Eberhard, M. (2003). Developmental plasticity and evolution. New York, NY: Oxford 
+University Press.
+West, J. (2014). Happiness and wellbeing in Asia? Asian Century Institute.
+Well-Being and Mental Wellness
+Page 43 of 44
+PRINTED FROM the OXFORD RESEARCH ENCYCLOPEDIA, GLOBAL PUBLIC HEALTH (oxfordre.com/publichealth). (c) Ox­
+ford University Press USA, 2020. All Rights Reserved. Personal use only; commercial use is strictly prohibited (for details see 
+Privacy Policy and Legal Notice).
+date: 04 August 2020
+Whiteford, H. A., Degenhardt, L., Rehm, J., Baxter, A. J., Ferrari, A. J., Erskine, H.E., Charl­
+son, F.J., Norman, R. E., Flaxman, A. D., Johns, N., and Burnstein, R. (2013). Global bur­
+den of disease attributable to mental and substance use disorders: Findings from 
+the Global Burden of Disease Study 2010. The Lancet, 382(9904), 1575–1586.
+Wiley, E. (2019). The unseen impacts of climate change on mental healt. BC Medical 
+Journal, 65(4), 180, 188.
+Wilson, E. (1984). Biophilia. Cambridge, MA: Harvard University Press.
+World Health Organization (WHO). (2006). The World Health Report 2006—working to­
+gether for health. Geneva, Switzerland: WHO.
+World Health Organization (WHO). (2013). Comprehensive mental health action plan 
+2013–2020. Geneva, Switzerland: WHO.
+World Health Organization (WHO). (2016). Global Health Observatory (GHO) data. 
+Geneva, Switzerland: WHO.
+World Health Organization (WHO). (2018). Mental health Atlas 2017. Geneva, Switzer­
+land: WHO.
+World Health Organization (WHO). (2019, October 2). Mental health.
+Yoshimura, M., Kurokawa, E., Noda, T., Hineno, K., Tanaka, Y., Kawai, Y., & Dillbeck, M. 
+(2015). Disaster relief for the Japanese earthquake-tsunami of 2011: Stress reduction 
+through the transcendental meditation technique. Psychological Reports, 117(1), 206– 
+216.
+Yzydorczyk, C., Armengaud, J. B., Peyter, A. C., Chehade, H., Cachat, F., Juvet, C., Sid­
+deek, B., Sabataier, F., Dignat-George, F., and Mitanchez, D. (2017). Endothelial dys­
+function in individuals born after fetal growth restriction: Cardiovascular and re­
+nal consequences and preventive approaches. Journal of Developmental Origins of 
+Health and Disease, 8(4), 448–464.
+Zecha, C. (2017, May 11). The turmeric-curcumin revolution. Maker’s Nutrition.
+Notes:
+(1.) The influential American zoologist Edward Wilson coined the concept of biophilia: 
+“The connection that human being subconsciously seek and need with the rest of 
+life” (Wilson, 1984).
+Gerard Bodeker
+University of Oxford, Green Templeton College and Columbia University, Department 
+of Epidemiology
+Well-Being and Mental Wellness
+Page 44 of 44
+PRINTED FROM the OXFORD RESEARCH ENCYCLOPEDIA, GLOBAL PUBLIC HEALTH (oxfordre.com/publichealth). (c) Ox­
+ford University Press USA, 2020. All Rights Reserved. Personal use only; commercial use is strictly prohibited (for details see 
+Privacy Policy and Legal Notice).
+date: 04 August 2020
+Sergio Pecorelli
+Yale University, School of Medicine
+Lawrence Choy
+Portola Wellness
+Ranieri Guerra
+World Health Organization
+Kishan Kariippanon
+University of Wollongong, School of Health and Society
+View publication stats
