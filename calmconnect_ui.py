@@ -253,8 +253,6 @@
 
 
 
-
-
 import streamlit as st
 import os
 import json
@@ -266,7 +264,7 @@ from rag_chain import ask_bot
 
 # --- Logging setup ---
 logging.basicConfig(
-    filename="/tmp/app.log",   # UPDATED: Save log to /tmp
+    filename="/tmp/app.log",   # <-- UPDATED for Render!
     level=logging.INFO,
     format="%(asctime)s %(levelname)s:%(message)s"
 )
@@ -280,7 +278,7 @@ st.set_page_config(
 )
 
 # --- Ensure log directory exists ---
-LOG_DIR = "/tmp/chat_logs"    # UPDATED: Save chat logs to /tmp
+LOG_DIR = "/tmp/chat_logs"    # <-- UPDATED for Render!
 os.makedirs(LOG_DIR, exist_ok=True)
 
 # --- Load Google Fonts & custom CSS ---
@@ -297,14 +295,15 @@ st.markdown("""
 </style>
 """, unsafe_allow_html=True)
 
-# --- Sidebar: user settings & chat history ---
+# --- Sidebar: Settings & Past Sessions ---
 st.sidebar.header("⚙️ Settings & History")
+
 # Optional nickname
 if 'nickname' not in st.session_state:
     st.session_state.nickname = ''
 st.session_state.nickname = st.sidebar.text_input("Your name (optional)", st.session_state.nickname)
 
-# Chat history controls
+# Chat history control
 sessions = sorted([f for f in os.listdir(LOG_DIR) if f.endswith('.json')], reverse=True)
 selected = st.sidebar.selectbox("📂 Past Sessions", ["New Chat"] + sessions)
 if st.sidebar.button("🗑️ Clear Chat"):
@@ -314,15 +313,17 @@ if selected != "New Chat":
         os.remove(os.path.join(LOG_DIR, selected))
         st.experimental_rerun()
 
-# --- Mood Check-In & Motivational Quote ---
+# --- Mood Check-in & Daily Tip ---
 st.markdown("<div class='main-container'>", unsafe_allow_html=True)
+
 if 'checked_in' not in st.session_state:
     mood = st.radio("How are you feeling today?", ["😊 Happy", "😌 Calm", "😣 Stressed", "😢 Sad", "😰 Anxious"], index=1, horizontal=True)
     st.session_state.checked_in = True
     st.session_state.chat = []
     greeting = f"Hello{', ' + st.session_state.nickname if st.session_state.nickname else ''}! You seem {mood.split()[1].lower()} today. I'm here to help."
     st.session_state.chat.append({"role": "assistant", "text": greeting})
-# Random daily tip
+
+# Daily tip
 if st.button("💡 Daily Wellness Tip"):
     tips = [
         "Take a 5-minute walk outside.",
@@ -335,7 +336,7 @@ if st.button("💡 Daily Wellness Tip"):
     st.success(f"🌟 Tip: {tip}")
     st.balloons()
 
-# --- Render Chat ---
+# --- Chat Bubbles Display ---
 for msg in st.session_state.chat:
     cls = "user-bubble" if msg['role'] == 'user' else "bot-bubble"
     st.markdown(f"<div class='chat-bubble {cls}'>{msg['text']}</div>", unsafe_allow_html=True)
@@ -346,14 +347,14 @@ with st.form(key='chat_form', clear_on_submit=True):
     submit = st.form_submit_button("Send 📨")
 
 if submit and user_input:
-    # append user message
+    # Save user message
     st.session_state.chat.append({"role": "user", "text": user_input})
 
-    # breathing exercise trigger
+    # Special case: breathing exercise
     if any(w in user_input.lower() for w in ["anxious", "panic", "nervous", "overwhelmed"]):
         if st.button("🫶 Breathing Exercise", key="breath_btn"):
             breath = st.empty()
-            for cycle in range(2):
+            for _ in range(2):
                 breath.text("Breathe in... 4s")
                 time.sleep(4)
                 breath.text("Hold... 7s")
@@ -362,24 +363,25 @@ if submit and user_input:
                 time.sleep(8)
             breath.text("✨ Feeling calmer? Let's continue!")
 
-    # get bot response
+    # Bot response
     with st.spinner("CalmConnect is thinking..."):
         try:
             resp = ask_bot(user_input, history=st.session_state.chat)
         except Exception as e:
             logging.error(f"ask_bot error: {e}")
             resp = "🧘 Sorry, I encountered an issue. Please try again."
-    
-    # Replace *smile* and *gentle nod* stage directions with emoji
+
+    # Post-process bot text
     resp = resp.replace("*smile*", "🙂").replace("*gentle nod*", "🙏")
-    
+
     st.session_state.chat.append({"role": "assistant", "text": resp})
 
-    # save session
+    # Save chat log
     stamp = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
     fname = f"session_{stamp}.json"
     with open(os.path.join(LOG_DIR, fname), "w", encoding="utf-8") as f:
         json.dump(st.session_state.chat, f, ensure_ascii=False, indent=2)
+    
     st.rerun()
 
 st.markdown("</div>", unsafe_allow_html=True)
